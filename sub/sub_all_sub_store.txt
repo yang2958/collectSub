@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://haitunyun.online/api/v1/client/subscribe?token=426b8dfeacea2bf82e6a136eabe66461
 https://xn--pbt777k.art/api/v1/client/subscribe?token=39fd8b7550bc788117487c1254d79078
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
 https://nachoneko.cn/api/v1/client/subscribe?token=b2d1c2acfd53f6a2230b183e2d36611d
@@ -15,10 +14,10 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://1st.sub-airport.com/api/v1/client/subscribe?token=5ef4ec7751819025fcba66de831dd380
 https://myko.buzz/api/v1/client/subscribe?token=289620037db8e83ae0a93605bea84b11
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=0d7377070788c87d77d6fa3f3749a8b0
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://haitunyun.online/api/v1/client/subscribe?token=daf34e679d9fcd7784661ef91cc3de76
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://cfyun.top/api/v1/client/subscribe?token=e4d926c763aae405d54f2939d3bc2edf&amp;flag=meta
 https://api.zzzzzl.me/api/v1/client/subscribe?token=e9b56f3eafe135ead8f7785a9a5e6c10
@@ -182,6 +181,7 @@ https://gsea.buzz/sub/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJGcmVlVXNlc
 https://gsea.buzz/sub/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJGcmVlVXNlciIsImFjY2VzcyI6InN1YnNjcmlwdGlvbiIsImlhdCI6MTcxMDcyNDY4OH0.lt2xPLmEvNXFj8pCjxzZ4uHIYx_nd_1kJYtBHO_j-2Q
 https://haitunyun.online/api/v1/client/subscribe?token=426b8dfeacea2bf82e6a136eabe66461
 https://haitunyun.online/api/v1/client/subscribe?token=5f653211ef161952b973bd06842eae92
+https://haitunyun.online/api/v1/client/subscribe?token=daf34e679d9fcd7784661ef91cc3de76
 https://host.ssrbox.com/api/v1/client/subscribe?token=210989356ed1cc904b2c27ac66fb6796
 https://huotuichang.top/api/v1/client/subscribe?token=aa1b0e128068e6bb1637ba5aeeb1549d
 https://ifaner.dd94wan.com/link/1jhk7fajbqlfkx1r?clash=1
