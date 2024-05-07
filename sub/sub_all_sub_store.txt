@@ -14,6 +14,7 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://1st.sub-airport.com/api/v1/client/subscribe?token=5ef4ec7751819025fcba66de831dd380
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=0d7377070788c87d77d6fa3f3749a8b0
+https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f0689ada2ddf
 https://myko.buzz/api/v1/client/subscribe?token=289620037db8e83ae0a93605bea84b11
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://fs123121.cdn.22.jiacdnd123456789.com/answer/land?token=5ad57ba4f689c71ff7f79e9202262d9a
@@ -26,7 +27,6 @@ https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c
 https://api.zzzzzl.me/api/v1/client/subscribe?token=e9b56f3eafe135ead8f7785a9a5e6c10
 https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f0689ada2ddf
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://subscribe.speedypro.xyz/api/v1/client/subscribe?token=kvi5e8eHTjJL5HeZd0ZMC5miUV4MHByq
