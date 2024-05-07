@@ -13,6 +13,7 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://haitunyun.online/api/v1/client/subscribe?token=daf34e679d9fcd7784661ef91cc3de76
 https://1st.sub-airport.com/api/v1/client/subscribe?token=5ef4ec7751819025fcba66de831dd380
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=0d7377070788c87d77d6fa3f3749a8b0
 https://myko.buzz/api/v1/client/subscribe?token=289620037db8e83ae0a93605bea84b11
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
@@ -25,8 +26,9 @@ https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://subscribe.speedypro.xyz/api/v1/client/subscribe?token=kvi5e8eHTjJL5HeZd0ZMC5miUV4MHByq
-https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
+https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f0689ada2ddf
 https://fs123121.cdn.22.jiacdnd123456789.com/answer/land?token=5ad57ba4f689c71ff7f79e9202262d9a
+https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
 
 
 -- sub_list --
@@ -86,6 +88,7 @@ https://aaa.us123.icu/api/v1/client/subscribe?token=0a91e46c7e45adf7389eaecd0965
 https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz/link/kKmQMz7wmFbOlOuz?clash=1
 https://acl.syyn.pw/api/v1/client/subscribe?token=50ec85cb5066c879d0413aa2650eee0b
 https://air.nicetive.site/api/v1/client/subscribe?token=a124f38f90d8cf695bf625baa5f52491
+https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f0689ada2ddf
 https://api.fanss.vip/link/HsszgxYX4oQolvvB?clash=1
 https://api.hy2.lol/api/v1/client/subscribe?token=336a097e9e5cee2dcbf83ae1d085954c
 https://api.tshl.cc/link/ry6M2vbmr2bGYspl?mu=2
