@@ -5,7 +5,6 @@ https://webridge.pokeryun.link/api/v1/client/subscribe?token=8d0e1e176d68c05116a
 https://haitunyun.online/api/v1/client/subscribe?token=36a38d1eb60b88610ad4fc6737b9da1a
 https://xn--pbt777k.art/api/v1/client/subscribe?token=39fd8b7550bc788117487c1254d79078
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://ktmcloud.co/api/v1/client/subscribe?token=0a4508917427d9fc9b353a5c3f2420d2
 https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
 https://qifei.today.elementfx.com/407129f7-ae44-4aba-b6d7-92fd0026d1a8
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=91329feda803c29309d5eae3e2c9c004
@@ -21,9 +20,9 @@ https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=0d7377070788c87d
 https://dash.ftclashcloud.mom/api/v1/client/subscribe?token=1069a4f948b27ed6d7d5a95f212ccbd0
 https://myko.buzz/api/v1/client/subscribe?token=289620037db8e83ae0a93605bea84b11
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
+https://cfyun.top/api/v1/client/subscribe?token=e4d926c763aae405d54f2939d3bc2edf&amp;flag=meta
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://cfyun.top/api/v1/client/subscribe?token=e4d926c763aae405d54f2939d3bc2edf&amp;flag=meta
 https://haitunyun.online/api/v1/client/subscribe?token=48ecfcd55bb38f17c08f8e2fba2a8516
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://z.album.icu/apk/go/client/banzou?token=e1c04e0d013d131e3db68df454fcb7cc
@@ -34,6 +33,7 @@ https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
 https://subscribe.speedypro.xyz/api/v1/client/subscribe?token=kvi5e8eHTjJL5HeZd0ZMC5miUV4MHByq
 https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
+https://ktmcloud.co/api/v1/client/subscribe?token=0a4508917427d9fc9b353a5c3f2420d2
 
 
 -- sub_list --
