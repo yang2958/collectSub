@@ -1,5 +1,6 @@
+https://subs.zeabur.app/clash
 https://cfyun01.sbs/api/v1/client/subscribe?token=2d0c7414923337195e3cf74016b408a2
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
+https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+http://panda.xn--lbrx91akmhm30c.com/api/v1/client/subscribe?token=e1b1bc8f674e1be01470a224580a96a0
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
-https://cloud.gyyun.top/api/v1/client/subscribe?token=9c093a85bb591fb27648f5babb19a8ba
+https://xn--pbt777k.art/api/v1/client/subscribe?token=39fd8b7550bc788117487c1254d79078
