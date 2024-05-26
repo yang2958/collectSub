@@ -1,3 +1,4 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://subs.zeabur.app/clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
+https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
+https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+https://cloud.gyyun.top/api/v1/client/subscribe?token=9c093a85bb591fb27648f5babb19a8ba
