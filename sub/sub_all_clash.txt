@@ -1,11 +1,4 @@
-http://api.sgjc.xyz/api/v1/client/subscribe?token=c015034bf0912b4eff60bd867465c45e
-https://0415.chun-auto-one.xyz/api/v1/client/subscribe?token=fe4e2280fff38b11c2fc10ae725a753c
-https://a2789293-639e-49f5-9506-c8040b488438.nginxxy.xyz/api/v1/client/subscribe?token=cb166f965cc95385fefbf0b1bd6fdd2a
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
-https://cdn1712594108.ppgnginx.com/api/v1/client/subscribe?token=dc39717861af92a86257d19726d2ac88
-https://dy.netfly.sbs/api/v1/client/subscribe?token=a1e3efbe4e251f9251130d22dab54f3d
-https://dy4.mmydy.xyz/api/v1/client/subscribe?token=e81f951df6532abdb39596ccabeb08c1
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
-https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
+https://dy9.mmydy.xyz/api/v1/client/subscribe?token=27cea39a9f0037eb0ac8042e158f2150
+https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
