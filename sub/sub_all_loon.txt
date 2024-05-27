@@ -1,6 +1,4 @@
 https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://dzpd.jiedianxielou.workers.dev/?clash=1
 https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
-http://vip.365cloud.me/api/v1/client/subscribe?token=1b361a84a84e233a1f110829ff572436
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://www.02er.com/api/v1/client/subscribe?token=3669432ada4b94e611bdd84047e81440&amp;flag=clash
-https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
+https://subs.zeabur.app/clash
