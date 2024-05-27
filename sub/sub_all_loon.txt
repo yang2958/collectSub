@@ -1,5 +1,5 @@
-http://api.sgjc.xyz/api/v1/client/subscribe?token=c015034bf0912b4eff60bd867465c45e
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
-https://subs.zeabur.app/clash
-https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+https://dzpd.jiedianxielou.workers.dev/?clash=1
