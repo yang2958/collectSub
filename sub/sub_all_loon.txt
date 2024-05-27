@@ -1,2 +1,6 @@
+https://subs.zeabur.app/clash
 https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
-https://jindoucloud.xyz/api/v1/client/subscribe?token=abcb8ddbec1cc752989f1b63dc69e10e
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://99ding.men/api/v1/client/subscribe?token=e756c8c4234cb0650e59f78c45fcf5f4
