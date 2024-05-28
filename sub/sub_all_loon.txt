@@ -1,6 +1,5 @@
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
-https://inangua.lwjyj.com/api/v1/client/subscribe?token=4888d1ba9ec81955ff3ddd5806174ed1
 https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://subs.zeabur.app/clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
