@@ -1,4 +1,5 @@
-https://mc.jiedianxielou.workers.dev
+https://my.catfaka.com/api/v1/client/subscribe?token=33b3b088599ad62f46643b3dc1eaa860
 https://mc.jiedianxielou.workers.dev/
-https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
-https://oss.pithecia.com/api/v1/client/subscribe?token=70ab15ea34eeb32e953a2a13ff4e56fd
+https://mc.jiedianxielou.workers.dev
+https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
