@@ -1,5 +1,6 @@
-https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
-https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+https://subs.zeabur.app/clash
+https://dy1.mmydy.xyz/api/v1/client/subscribe?token=a2ad93368eec6938ee3a872ffcb09574&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://0415.chun-auto-one.xyz/api/v1/client/subscribe?token=fe4e2280fff38b11c2fc10ae725a753c
 https://mc.jiedianxielou.workers.dev/
+https://dzpd.jiedianxielou.workers.dev/?clash=1
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
