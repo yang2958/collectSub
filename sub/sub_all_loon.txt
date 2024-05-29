@@ -1,6 +1,7 @@
-https://dy1.mmydy.xyz/api/v1/client/subscribe?token=a2ad93368eec6938ee3a872ffcb09574&amp;flag=clash
-https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://mc.jiedianxielou.workers.dev
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://mc.jiedianxielou.workers.dev/
 https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://0415.chun-auto-one.xyz/api/v1/client/subscribe?token=fe4e2280fff38b11c2fc10ae725a753c
+https://oss.pithecia.com/api/v1/client/subscribe?token=70ab15ea34eeb32e953a2a13ff4e56fd
+https://25054128.xyz/api/v1/client/subscribe?token=7723b391e7c3c9df9d33816752360cc6
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
