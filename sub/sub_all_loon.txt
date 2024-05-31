@@ -1,6 +1,4 @@
-https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
-https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
+https://subs.zeabur.app/clash
+https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
