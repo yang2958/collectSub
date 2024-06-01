@@ -1,29 +1,29 @@
 -- play_list --
 
 
-https://login.djjc.cfd/api/v1/client/subscribe?token=16955f17222128202dcef3ced14341cf
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
 https://sulian.life/api/v1/client/subscribe?token=23a8d487f5225e7c05af6d84c4a38a82
+https://tjjd.yzyx1.v6.army/8557692d-c228-48f0-b6f9-50d44d4a2096
+https://notls.11111111.eu.org/770e8a1b-980e-474d-b583-2e4e98acb854
+https://qifei.today.elementfx.com/407129f7-ae44-4aba-b6d7-92fd0026d1a8
 https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
 https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
 https://subs.zeabur.app/clash
-https://tjjd.yzyx1.v6.army/8557692d-c228-48f0-b6f9-50d44d4a2096
-https://qifei.today.elementfx.com/407129f7-ae44-4aba-b6d7-92fd0026d1a8
-https://notls.11111111.eu.org/770e8a1b-980e-474d-b583-2e4e98acb854
-http://hpyjc.top/api/v1/client/subscribe?token=e49e20f28920511e029a02ff3acfd12a
+https://xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=960ee03d869452f66062aeec54675624
 http://dy.hpyjc.top/api/v1/client/subscribe?token=e49e20f28920511e029a02ff3acfd12a
+http://hpyjc.top/api/v1/client/subscribe?token=e49e20f28920511e029a02ff3acfd12a
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
+http://hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
+http://dy.hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-http://dy.hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
-http://hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
+https://dy01.mmydy.xyz/api/v1/client/subscribe?token=12aa13d60e9405c6fdfdaa4a96c80c1a
 https://inangua.lwjyj.com/api/v1/client/subscribe?token=8e92fe4ff686c6de028a90589c0c49d8
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
-https://xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=960ee03d869452f66062aeec54675624
 https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
 https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
@@ -236,6 +236,7 @@ https://dy.smjc.top/api/v1/client/subscribe?token=fa71c0c248b2cecda4af27ba7f9694
 https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
 https://dy.twittei.link/auto
 https://dy0.mmydy.xyz/api/v1/client/subscribe?token=997c826ac651aa6303ea813a7a3ad33a
+https://dy01.mmydy.xyz/api/v1/client/subscribe?token=12aa13d60e9405c6fdfdaa4a96c80c1a
 https://dy1.mmydy.xyz/api/v1/client/subscribe?token=214f0db53294571e60e85cc96ab43a4e
 https://dy1.mmydy.xyz/api/v1/client/subscribe?token=4e5e4f91dfcdcc50c6cd9d6470d487a7
 https://dy1.mmydy.xyz/api/v1/client/subscribe?token=6131d002726e32b0efb4b8ab5a972353
