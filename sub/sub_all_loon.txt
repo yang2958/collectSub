@@ -1,5 +1,7 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+http://ant77.top/api/v1/client/subscribe?token=d580223a12d39508006e655dbc34b0fa
 https://mc.jiedianxielou.workers.dev/
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-http://ant77.top/api/v1/client/subscribe?token=d580223a12d39508006e655dbc34b0fa
