@@ -1,6 +1,7 @@
+http://lianjiasub.work/api/v1/client/subscribe?token=b39bd2e21a2d1975ee0a0a4b7d5a1a3d
 https://sulian.life/api/v1/client/subscribe?token=23a8d487f5225e7c05af6d84c4a38a82
-https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://mc.jiedianxielou.workers.dev
 https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
-https://hy-2.sbs/api/v1/client/subscribe?token=966d9800472a1810583cae969047c4f9
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
