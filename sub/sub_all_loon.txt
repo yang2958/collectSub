@@ -1,5 +1,5 @@
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
+https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://sub2.bighneko.top/api/v1/client/subscribe?token=e07f1d406c5aeaebb21dbcce1a6115c5
-https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
+https://mc.jiedianxielou.workers.dev
