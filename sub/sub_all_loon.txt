@@ -1,5 +1,6 @@
-https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
-https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub2.bighneko.top/api/v1/client/subscribe?token=e07f1d406c5aeaebb21dbcce1a6115c5
-https://mc.jiedianxielou.workers.dev
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
+https://sub.xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=20dd1a943d617801d708ec230405db60
