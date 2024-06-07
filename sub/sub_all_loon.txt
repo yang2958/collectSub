@@ -1,5 +1,7 @@
-https://dy.smjc.top/api/v1/client/subscribe?token=f0ef3a43c0cfd8481ada8148885b6c95
-https://mc.jiedianxielou.workers.dev
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://subs.zeabur.app/clash
-https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=1743809938444e76b75cf6993d7d15ef
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev/
+https://dzpd.jiedianxielou.workers.dev/?clash=1
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=a624e186c8ca034c793da972294823af
+https://sulian.life/api/v1/client/subscribe?token=23a8d487f5225e7c05af6d84c4a38a82
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
