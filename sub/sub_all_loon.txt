@@ -1,3 +1,0 @@
-https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
-https://doucat.top/api/v1/client/subscribe?token=22f5e6fdbb09ed0c8ff29569556f72e9
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
