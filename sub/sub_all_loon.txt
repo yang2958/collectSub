@@ -1,8 +1,4 @@
-https://bajie.xyz/api/v1/client/subscribe?token=1490b14ca11d17e021d836fe92cb2ab5
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://subs.zeabur.app/clash
-http://x1yjc.top/api/v1/client/subscribe?token=be00a5cf9dd3f99dae742c71c46a1246
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
-http://ant77.top/api/v1/client/subscribe?token=d580223a12d39508006e655dbc34b0fa
-https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
+https://dy.smjc.top/api/v1/client/subscribe?token=c6f5a0e8a6cb0439850967259af07025
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
