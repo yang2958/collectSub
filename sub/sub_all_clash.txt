@@ -1,9 +1,10 @@
-http://dy.xyyjc.top/api/v1/client/subscribe?token=cc9fc6673e7c2400305f5fc19fc1f80f
+http://s1.subcsyun.online/api/v1/client/subscribe?token=30db03460bbf9d093fad84d653f58af8
+https://47.237.21.85/api/v1/client/subscribe?token=f90ee423b00b2d456ceae30c9781c424
+https://api.xn--yfr72t8r4bvhd.xyz/api/v1/client/subscribe?token=3aa427960573c7bf8817bfb51cadca93
 https://0415.chun-auto-one.xyz/api/v1/client/subscribe?token=fe4e2280fff38b11c2fc10ae725a753c
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
-https://doucat.top/api/v1/client/subscribe?token=22f5e6fdbb09ed0c8ff29569556f72e9
+https://dy.chaozhijc.xyz/api/v1/client/subscribe?token=9a5360b534af5c06332e9dc141de9628
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://mc.jiedianxielou.workers.dev
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://xsj520.top/api/v1/client/subscribe?token=36e634829b473d8fafea8014348c49c2
+https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=a648e23b321ba13e0fff2a777c7746d0
+https://liangyuandian.xyz/api/v1/client/subscribe?token=497faca3c38d69a87106713dc31ab6ef
+https://pro.76898102.xyz/api/v1/client/subscribe?token=02dc0a27ca659ecbf87e1975ad106ac1
+https://time1717401601.nginxcaiyun.xyz/api/v1/client/subscribe?token=f1cb8179fdf3828f2d4780006dbe3494
