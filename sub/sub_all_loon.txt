@@ -1,4 +1,5 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://subs.zeabur.app/clash
-https://dy.smjc.top/api/v1/client/subscribe?token=c6f5a0e8a6cb0439850967259af07025
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://chaozhijc.xyz/api/v1/client/subscribe?token=e37a86887ec3604a97ba68cc63cdc1f3
+https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
+https://mc.jiedianxielou.workers.dev/
+https://miaomiao.xn--7rs48z0nlr6hc8cqz4a.com/api/v1/client/subscribe?token=ff8bd8e8fb273f887667997153bcfe6d
+https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
