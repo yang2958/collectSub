@@ -1,7 +1,6 @@
-https://subs.zeabur.app/clash
+https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
+https://mc.jiedianxielou.workers.dev/
 https://chaozhijc.xyz/api/v1/client/subscribe?token=e37a86887ec3604a97ba68cc63cdc1f3
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
-https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
+http://xyyjc.top/api/v1/client/subscribe?token=5a9aa7daa62077d36af9cdf635bb4e6f
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
