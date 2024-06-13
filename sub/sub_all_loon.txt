@@ -1,6 +1,4 @@
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
 https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
 https://mc.jiedianxielou.workers.dev/
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
+https://api.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=584e6a28ada9a8f5fb01ae955ea83de2
