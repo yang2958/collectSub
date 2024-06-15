@@ -1,6 +1,5 @@
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://subs.zeabur.app/clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
-https://sub.mianfeiyun.online/api/v1/client/subscribe?token=31b8ce92d13bf5359ffb36bd96f44c44
+https://api.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=584e6a28ada9a8f5fb01ae955ea83de2
+https://mc.jiedianxielou.workers.dev
