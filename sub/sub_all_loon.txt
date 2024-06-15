@@ -1,6 +1,4 @@
-https://ap.niaodi.top/niao?token=de3d75d981f9e39cf2d592e3498248ce
-https://mc.jiedianxielou.workers.dev/
-https://subs.zeabur.app/clash
+http://api-0609.m55u97uleod7lm5.download/api/v1/client/subscribe?token=b56b25ed0dec93af61fa7a81f6b840fe
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
