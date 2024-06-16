@@ -1,6 +1,2 @@
-https://api.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=584e6a28ada9a8f5fb01ae955ea83de2
-https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev
 https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://sub.mianfeiyun.online/api/v1/client/subscribe?token=31b8ce92d13bf5359ffb36bd96f44c44
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
