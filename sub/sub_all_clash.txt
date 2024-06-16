@@ -1,10 +1,4 @@
-http://dy.hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
-http://s4.subcsyun.online/api/v1/client/subscribe?token=9ed73fe3e6c60bba9ba5f3d7fb9a9049
-http://s1.subcsyun.online/api/v1/client/subscribe?token=30db03460bbf9d093fad84d653f58af8
-https://ap.niaodi.top/niao?token=de3d75d981f9e39cf2d592e3498248ce
-https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
-https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE04ODdacUFzOTlrTU04RGtOWk0vRUZzMGNUYWdTN0NoZ1pCVkR4ZnRpbW1iWmZDM2wvd3RVeFY3ekM4aHRwNmhIS0UrYkFhQlRHY1NBZWdxYnlEVkNlK2lpRW5aZ1M3RWN0Y1VvVT0
+https://api.xn--yfr72t8r4bvhd.xyz/api/v1/client/subscribe?token=3aa427960573c7bf8817bfb51cadca93
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
-https://sub1.ktyyun.com/link/9pv3y6wuoBhdgcif?sub=3
-https://vtwoc1.top/api/v1/client/subscribe?token=716cee0b865297d0b9b22a3d11883a54
+https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
