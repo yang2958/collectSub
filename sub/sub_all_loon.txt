@@ -1,6 +1,3 @@
-https://subs.zeabur.app/clash
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://mc.jiedianxielou.workers.dev/
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
-https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
-https://sub1.bbjc.xyz/api/v1/client/subscribe?token=fe126b6e92680a357e6554899a96703c
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://jp.taishan1.pro/api/v1/client/subscribe?token=decbd7dd37b24d65a43b4bf05da2cdf9
