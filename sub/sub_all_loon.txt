@@ -1,7 +1,3 @@
-https://sub1.bbjc.xyz/api/v1/client/subscribe?token=a9b717b588943bb10b2a0298368dd742
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-http://dy.xyyjc.top/api/v1/client/subscribe?token=ba818ce7fa4c404ae1ee19f4ed9ad98d&amp;flag=meta
-https://dy.smjc.top/api/v1/client/subscribe?token=5bd7e01f6a299be186e5cd44f9c6c150
+https://sub.mianfeiyun.online/api/v1/client/subscribe?token=31b8ce92d13bf5359ffb36bd96f44c44
