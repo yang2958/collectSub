@@ -1,3 +1,7 @@
+https://sub1.bbjc.xyz/api/v1/client/subscribe?token=fe126b6e92680a357e6554899a96703c
+https://sub1.bbjc.xyz/api/v1/client/subscribe?token=a9b717b588943bb10b2a0298368dd742
 https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub.mianfeiyun.online/api/v1/client/subscribe?token=31b8ce92d13bf5359ffb36bd96f44c44
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://mc.jiedianxielou.workers.dev/
+http://dy.xyyjc.top/api/v1/client/subscribe?token=ba818ce7fa4c404ae1ee19f4ed9ad98d&amp;flag=meta
+https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
