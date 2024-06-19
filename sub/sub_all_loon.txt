@@ -1,7 +1,8 @@
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
-https://subs.zeabur.app/clash
-https://sub.mianfeiyun.online/api/v1/client/subscribe?token=31b8ce92d13bf5359ffb36bd96f44c44
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://subs.zeabur.app/clash
+https://nano.nachoneko.cn/api/v1/client/subscribe?token=2d502ca97e332c53ff350460a93e08d6
 http://3ae4349382d5ae35b6e5dda2e68d3df0.52pokemon.top/api/v1/client/subscribe?token=da65271ed77f83d7d6bf974f0fc82a05
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlvNDRsNHQ4eUVzTVZzSnBRZng5Z003UjVranR2RTJIeUJqQTlHUlgxWTdEaWdiSmJJemxPdHBCeEs1VFhrMFlKNjBYblRxTDBhQ1RPYkdWU20vdXJXQUMyd2lISW5ZRmUxUWNoV0NOUlZDMGc9
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
