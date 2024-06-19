@@ -1,6 +1,7 @@
 https://sub.mianfeiyun.online/api/v1/client/subscribe?token=31b8ce92d13bf5359ffb36bd96f44c44
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://pincht.sbs/api/v1/client/subscribe?token=37243207598ae12add91acff37cf921e
 https://mc.jiedianxielou.workers.dev
-https://sub1.bbjc.xyz/api/v1/client/subscribe?token=a9b717b588943bb10b2a0298368dd742
-https://xunlei-api.okay.casa/api/v1/client/subscribe?token=231e6e54ba07861830077f8c590ccc6d
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
+https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
