@@ -1,6 +1,6 @@
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://mc.jiedianxielou.workers.dev
+https://sub.bbjc.xyz/api/v1/client/subscribe?token=9eb3a420cad9a2e15ac3382a7031b4d2
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub1.bbjc.xyz/api/v1/client/subscribe?token=fe126b6e92680a357e6554899a96703c
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
