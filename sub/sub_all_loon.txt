@@ -1,5 +1,6 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://sub.bbjc.xyz/api/v1/client/subscribe?token=9eb3a420cad9a2e15ac3382a7031b4d2
+https://dy.tagsub.net/api/v1/client/subscribe?token=71d0f65c5cc21d620b1765b03d78530e
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://fast.yt/sub/353bfbe55b9e9b33/clash
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://sub1.bbjc.xyz/api/v1/client/subscribe?token=df388c2d66662049b7c2f123052e3c13
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
