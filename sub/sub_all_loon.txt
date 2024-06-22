@@ -1,4 +1,6 @@
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://bbjc.xyz/api/v1/client/subscribe?token=357c1cb1f5807136b3635b4bed9bc0ba
 https://bbjc.xyz/api/v1/client/subscribe?token=e2856c912488f399d8b421264bbe68a3
-https://mc.jiedianxielou.workers.dev/
+https://bbjc.xyz/api/v1/client/subscribe?token=32a1c05ec9af42fe49e9e9e22e9bb1ce
+https://fast.yt/sub/353bfbe55b9e9b33/clash
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
