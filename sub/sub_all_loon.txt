@@ -1,6 +1,4 @@
-https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://bbjc.xyz/api/v1/client/subscribe?token=357c1cb1f5807136b3635b4bed9bc0ba
 https://bbjc.xyz/api/v1/client/subscribe?token=e2856c912488f399d8b421264bbe68a3
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://lzysub.online/api/v1/client/subscribe?token=633f3e425991d9f817aa7c2ca01a4fd9
+https://mc.jiedianxielou.workers.dev/
