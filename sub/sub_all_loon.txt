@@ -1,7 +1,5 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev/
 https://bbjc.xyz/api/v1/client/subscribe?token=357c1cb1f5807136b3635b4bed9bc0ba
-https://bbjc.xyz/api/v1/client/subscribe?token=4a0d1428dd2ab3b71e7c55278bf0965c
-https://mc.jiedianxielou.workers.dev
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
-https://sub.bbjc.xyz/api/v1/client/subscribe?token=9eb3a420cad9a2e15ac3382a7031b4d2
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://bbjc.xyz/api/v1/client/subscribe?token=e987563d673edb78f25b23268b022b9c
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://fast.yt/sub/353bfbe55b9e9b33/clash
