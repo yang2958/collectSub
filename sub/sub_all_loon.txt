@@ -1,6 +1,7 @@
-https://bbjc.xyz/api/v1/client/subscribe?token=357c1cb1f5807136b3635b4bed9bc0ba
-https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
-https://bbjc.xyz/api/v1/client/subscribe?token=e987563d673edb78f25b23268b022b9c
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://bbjc.xyz/api/v1/client/subscribe?token=e2856c912488f399d8b421264bbe68a3
+https://bbjc.xyz/api/v1/client/subscribe?token=32a1c05ec9af42fe49e9e9e22e9bb1ce
+https://bbjc.xyz/api/v1/client/subscribe?token=d9c6ad661324dbd9b18645f60415b440
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://doucat.top/api/v1/client/subscribe?token=22f5e6fdbb09ed0c8ff29569556f72e9
