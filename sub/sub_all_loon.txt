@@ -1,6 +1,5 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
-https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;ttoken=767d2f8ed5d21a44b
-https://mc.jiedianxielou.workers.dev/
-https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
+https://mc.jiedianxielou.workers.dev
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;amp;ttoken=767d2f8ed5d21a44b
 http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
