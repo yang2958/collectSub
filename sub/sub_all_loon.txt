@@ -1,6 +1,7 @@
 https://mc.jiedianxielou.workers.dev
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
 https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/
-https://doucat.top/api/v1/client/subscribe?token=22f5e6fdbb09ed0c8ff29569556f72e9
-https://api.abyssyun.top/api/v1/client/subscribe?token=926435ddf26a778b02263cf41807408b
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://fast.yt/sub/353bfbe55b9e9b33/clash
+https://too.st/a8K
