@@ -4,8 +4,8 @@
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://oss.pithecia.com/api/v1/client/subscribe?token=8f659094a87acae9954759a8f82fb992
 https://subs.zeabur.app/clash
+https://jsjc.cfd/api/v1/client/subscribe?token=4bbb5d4d40bee1ce427f5d29382198cf
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
@@ -35,7 +35,6 @@ https://blueAir.colacloud.free.hr/api/v1/client/subscribe?token=aa6f0d580d9f6214
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
-https://too.st/a8K
 http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
 https://d.palu123.com/apk/go/client/banzou?token=39ea85aebf62087fed292e5cb1787b56
 http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
@@ -50,6 +49,7 @@ https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
 https://blueAir.colacloud.free.hr/api/v1/client/subscribe?token=e9fd7c95902accf8b2fa1be14feb4526
+https://oss.pithecia.com/api/v1/client/subscribe?token=8f659094a87acae9954759a8f82fb992
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 https://duijie.cfyun.top/api/v1/client/subscribe?token=85ca2dbb22e2cdc54f6a65278daa0e2a
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
