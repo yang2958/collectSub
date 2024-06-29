@@ -1,7 +1,6 @@
-https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
 https://api.abyssyun.top/api/v1/client/subscribe?token=83e18798880e917220bdbed3afff2919
-https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://subs.zeabur.app/clash
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
+https://cloud.gyyun.top/api/v1/client/subscribe?token=95ed28d689e042a05a9fb6f4142e211c
