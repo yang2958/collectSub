@@ -1,7 +1,6 @@
-https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
+https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
+https://mc.jiedianxielou.workers.dev
 https://subs.zeabur.app/clash
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://duijie.cfyun.top/api/v1/client/subscribe?token=3e09b822117ee4c2d18a742f8e647dbb
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://gyyun.top/api/v1/client/subscribe?token=a227cf22d0f58bcafdee31e55af6bffe
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://duijie.cfyun.top/api/v1/client/subscribe?token=7f86317387466d1b7d14adb7dd27f66d
+https://oss.pithecia.com/api/v1/client/subscribe?token=a9409f9bba1c5cbe71370a7ac3d544b9
