@@ -1,11 +1,5 @@
 http://2ec535a5c35aa5a4b44249428dbb3d01.52pokemon.top/api/v1/client/subscribe?token=8cf0a4fe2c5e35887a50677c2f79325b
-http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
-https://duijie.cfyun.top/api/v1/client/subscribe?token=3e09b822117ee4c2d18a742f8e647dbb
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
+https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
+https://duijie.cfyun.top/api/v1/client/subscribe?token=972b503b226f014a372924bced33a971
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=6d9c8d38ccd38d9725acdf81a7254935
-https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
