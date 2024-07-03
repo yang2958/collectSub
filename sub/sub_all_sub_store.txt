@@ -42,8 +42,8 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 https://blueAir.colacloud.free.hr/api/v1/client/subscribe?token=e9fd7c95902accf8b2fa1be14feb4526
 https://hx0618.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=121ba58bb4b6f87ef10f5ab0b4d028d9
 https://duijie.cfyun.top/api/v1/client/subscribe?token=9dbea5a02c4c40b29f6795d13d06800a
-https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?clash=1
 https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?list=shadowrocket
+https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?clash=1
 https://a94d418e-1898-42df-bcf2-d970a5f3a939.mysubsoft.com/api/v1/client/subscribe?token=1cb8e0050af86604a7638c6c1a91e3f9
 https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
@@ -51,6 +51,7 @@ http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623
 http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
 https://base64.bigwatermelon.org/api/v1/client/subscribe?token=62c5f829cb72c86a63101c91da69123b
 https://cloud.gyyun.top/api/v1/client/subscribe?token=569e0cf2bc421b70e7df67a4740fcc56
+https://niaodi.top/niao?token=f458b68029d3e14d505baab010e9c913
 https://xsj520.top/api/v1/client/subscribe?token=67b0328a7dced4a58be002bb2f681f97
 https://sub123.71345.xyz/api/v1/client/subscribe?token=8be8ebe8fc22637997c0c60e60d3cf62
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
@@ -61,9 +62,9 @@ https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e
 https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
 https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
 https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
 https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
 https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
@@ -611,6 +612,7 @@ https://neko.hnekocloud.top/api/v1/client/subscribe?token=cb22ee7107f3dff68b01c3
 https://neko2.hnekocloud.top/api/v1/client/subscribe?token=4c231612d87d317727677013a624fff7
 https://net.17181922.xyz/api/v1/client/subscribe?token=8460d95cbbb5b019dd9fa5eaaca46a40
 https://niaodi.top/niao?token=d9aa0fcf6f2399f09f0b0e54349a2297
+https://niaodi.top/niao?token=f458b68029d3e14d505baab010e9c913
 https://niaodi.top/niao?token=fa0e5e89098d418c0a78aeb269f3e896
 https://niaodi.top/niao?token=fa0e5e89098d418c0a78aeb269f3e896&amp;flag=meta
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?clash=1
