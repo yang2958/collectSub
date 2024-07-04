@@ -1,6 +1,8 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://base64.bigwatermelon.org/api/v1/client/subscribe?token=62c5f829cb72c86a63101c91da69123b
+https://subs.zeabur.app/clash
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://sub.yiri.dev/api/v1/client/subscribe?token=b0c01c76076d69431ce1fdff1eeb1624
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
-https://dy.smjc.top/api/v1/client/subscribe?token=b12651a704cf680e5794f61827a46262
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?sub=2
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
