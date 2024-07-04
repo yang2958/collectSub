@@ -1,5 +1,6 @@
-https://d.palu123.com/apk/go/client/banzou?token=97e454f284433a384e3c27449ac9412d
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
-https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?list=shadowrocket
-https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?clash=1
-https://cloud.gyyun.top/api/v1/client/subscribe?token=569e0cf2bc421b70e7df67a4740fcc56
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
+https://duijie.cfyun.top/api/v1/client/subscribe?token=9dbea5a02c4c40b29f6795d13d06800a
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
+https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
