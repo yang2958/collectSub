@@ -1,7 +1,6 @@
-https://subs.zeabur.app/clash
-https://cloud.gyyun.top/api/v1/client/subscribe?token=95ed28d689e042a05a9fb6f4142e211c
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
+https://api1.danidapigu.top/api/v1/client/subscribe?token=e1625b3640ff08f0dafb07e0360c6bf7
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
+https://www.moonriver.sbs/api/v1/client/subscribe?token=12730f73cc2b7c3451b825974642aca6
+https://cloud.gyyun.top/api/v1/client/subscribe?token=95ed28d689e042a05a9fb6f4142e211c
+https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?sub=2
+https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
