@@ -1,4 +1,4 @@
-https://subs.zeabur.app/clash
 https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?sub=2
+https://subs.zeabur.app/clash
 http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
