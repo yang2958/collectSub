@@ -1,3 +1,4 @@
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=db963cec4b48c63da38a10ea8e7b4c9a
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
-https://xsj520.top/api/v1/client/subscribe?token=67b0328a7dced4a58be002bb2f681f97
+https://svip.365cloud.me/api/v1/client/subscribe?token=8bccd8d7a9c5408d1ab77d58c085cdaf
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
