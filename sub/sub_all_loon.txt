@@ -1,7 +1,2 @@
-http://6465307854ab0a2c82b66d32ffa2107e.52pokemon.top/api/v1/client/subscribe?token=8bae25c486e76f8dd12166c3dd33e6a4&amp;flag=ClashMeta
-https://d.palu123.com/apk/go/client/banzou?token=97e454f284433a384e3c27449ac9412d
-http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=db963cec4b48c63da38a10ea8e7b4c9a
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://gyyun.top/api/v1/client/subscribe?token=b4e64a8fee76609b73b37ccf97523616
-https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
+https://subs.zeabur.app/clash
+https://xsj520.top/api/v1/client/subscribe?token=67b0328a7dced4a58be002bb2f681f97
