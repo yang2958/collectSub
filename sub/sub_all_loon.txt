@@ -1,2 +1,3 @@
-http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
