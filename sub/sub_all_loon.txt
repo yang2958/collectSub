@@ -1,6 +1,1 @@
-http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
