@@ -1,5 +1,1 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
-https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
