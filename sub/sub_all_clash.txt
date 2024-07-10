@@ -1,9 +1,8 @@
+http://api-0609.m55u97uleod7lm5.download/api/v1/client/subscribe?token=34f923281be9433b2de5b1aebbbce5d6
+http://3ae4349382d5ae35b6e5dda2e68d3df0.52pokemon.top/api/v1/client/subscribe?token=da65271ed77f83d7d6bf974f0fc82a05
 http://6465307854ab0a2c82b66d32ffa2107e.52pokemon.top/api/v1/client/subscribe?token=8bae25c486e76f8dd12166c3dd33e6a4&amp;flag=ClashMeta
-http://api-0609.m55u97uleod7lm5.download/api/v1/client/subscribe?token=297c37f198e29be0377e8be9a88d9e37
-http://api-0609.m55u97uleod7lm5.download/api/v1/client/subscribe?token=212ecbd29bd748f22df31f79c6ac2582
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
-https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
-https://cloud.gyyun.top/api/v1/client/subscribe?token=569e0cf2bc421b70e7df67a4740fcc56
-https://datacenter_us.pithecia.com/api/v1/client/subscribe?token=addd04463bc122a157e96d5f77b2fd8e
-https://mojie.app/api/v1/client/subscribe?token=9b796d79905a49c1f75139a9f5650b7f
-https://s6.ssysub1.xyz/api/v1/client/subscribe?token=fba3fbf541b89531535d17a732d54f8e
+https://dy.smjc.top/api/v1/client/subscribe?token=5bd7e01f6a299be186e5cd44f9c6c150
+https://edu.kuaifaka.me/api/v1/client/subscribe?token=f413cbcee9052e32bd1ad7a1f6178d4b
+https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+https://watch.szlatteart.com/api/v1/client/subscribe?token=d565fcd550324c2fae42ed7bcb4ce7cd
