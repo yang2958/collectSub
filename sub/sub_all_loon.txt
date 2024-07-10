@@ -1,7 +1,4 @@
 https://sub.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e789af55b4k961d01
 https://subs.zeabur.app/clash
-https://bav46z6c.nicecloud.win:8443/api/v1/client/e4211521e52c657794db11aeca886352
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=9131e302cac84280adb1d9bdd32c1c1f
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
