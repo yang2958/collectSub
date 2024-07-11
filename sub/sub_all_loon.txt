@@ -1,6 +1,7 @@
-https://711.886511.xyz/api/v1/client/subscribe?token=86791c2550feb8827087de9743e3523e
-http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
-http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
+https://subs.zeabur.app/clash
+https://sub.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e789af55b4k961d01
+https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://bav46z6c.nicecloud.win:8443/api/v1/client/e4211521e52c657794db11aeca886352
