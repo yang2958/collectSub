@@ -1,5 +1,6 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://sub.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e789af55b4k961d01
-https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
+https://711.886511.xyz/api/v1/client/subscribe?token=86791c2550feb8827087de9743e3523e
+http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
+http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
