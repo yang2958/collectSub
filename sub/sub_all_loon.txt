@@ -1,6 +1,4 @@
 http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
 https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
-https://go.hhyun.in/api/v1/client/subscribe?token=f566982c0c0b2a032ae3cdbf1ffb5ab0
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=af21d9eddb8520620406bbd70d8d5874
