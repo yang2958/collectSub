@@ -1,9 +1,7 @@
-https://api.abyssyun.top/api/v1/client/subscribe?token=83e18798880e917220bdbed3afff2919
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://ceshi.888451.xyz/api/v1/client/subscribe?token=cf4c9c44f92918944b5b27d1311b45be
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=af21d9eddb8520620406bbd70d8d5874
-https://gyyun.top/api/v1/client/subscribe?token=8678459e5d73af7aca9c47b424e1dd7c
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://www.dma.icu/api/v1/client/subscribe?token=644e975e6cc32deb23ed27d2a0f3eec2
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0708qf9?wkalYsYKGuePe5ry4yXcCFbL2BZtEQBvM4jsHdK6lPswFg?Z6z/K0hzuAk9CYZRPo5O7ZptTUHxD3s2Kj4mRe0Ww==
+https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
+https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=9131e302cac84280adb1d9bdd32c1c1f
+https://mc.jiedianxielou.workers.dev
