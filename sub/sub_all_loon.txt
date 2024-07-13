@@ -1,5 +1,5 @@
-https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
 https://subs.zeabur.app/clash
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://s1.iajsy.lol/api/v1/client/subscribe?token=95ff71c2f98cc4e3a5eb97ee4d80988e
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=af21d9eddb8520620406bbd70d8d5874
+https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=d1ed0c1bd20c2eb904639751a84d522d
+https://dy.smjc.top/api/v1/client/subscribe?token=1bf7473407fd89cf9e838cd3b04eb0ca
