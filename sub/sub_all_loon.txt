@@ -1,9 +1,5 @@
-https://go.hhyun.in/api/v1/client/subscribe?token=3cf60db29b1e1e99388cb3d1a00a4e57
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://gyyun.top/api/v1/client/subscribe?token=a227cf22d0f58bcafdee31e55af6bffe
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://www.moonriver.sbs/api/v1/client/subscribe?token=bd677c523c4983fa3b60a528f6e5d485
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://yaxianzhi.shop/api/v1/client/subscribe?token=59b8f0b6612d1d409b957b8b1edc8a4a
