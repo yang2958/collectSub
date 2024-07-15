@@ -1,6 +1,2 @@
-https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
-https://gyyun.top/api/v1/client/subscribe?token=a227cf22d0f58bcafdee31e55af6bffe
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
