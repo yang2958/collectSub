@@ -1,7 +1,7 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
 https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
 https://subs.zeabur.app/clash
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://api.ssrsub.com/api/v1/client/subscribe?token=31cf50bb67f27e40ab48132723b2ae19
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=71139136f1c18bf0b250e72d443aeb57
+https://followcloud.space/api/v1/client/subscribe?token=f42a19bbb0db5a4edf7601485d5d0d85
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
