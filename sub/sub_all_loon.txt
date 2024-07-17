@@ -1,8 +1,5 @@
-https://mc.jiedianxielou.workers.dev
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://followcloud.space/api/v1/client/subscribe?token=f42a19bbb0db5a4edf7601485d5d0d85
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
