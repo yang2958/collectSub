@@ -1,6 +1,7 @@
 https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
-https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
+https://mc.jiedianxielou.workers.dev/
+https://subs.zeabur.app/clash
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://xfsnet.com/api/v1/client/subscribe?token=b6604f287cdf8e5665ebc7393755cae6
