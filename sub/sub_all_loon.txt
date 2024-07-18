@@ -1,8 +1,4 @@
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://followcloud.space/api/v1/client/subscribe?token=f42a19bbb0db5a4edf7601485d5d0d85
+https://subs.zeabur.app/clash
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
 https://mc.jiedianxielou.workers.dev/
-https://subsubsubsubsub.keledydz.uk/api/v1/client/subscribe?token=059c1cbe704ce6bed83b78922b26150e
-http://e8a580bd3a51b6050aabd8919a17d106.52pokemon.top/api/v1/client/subscribe?token=8949b177fcce579e75a0f6b1178ea72c
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://mc.jiedianxielou.workers.dev
