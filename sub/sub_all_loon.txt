@@ -1,9 +1,6 @@
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
 https://subs.zeabur.app/clash
-https://dy.smjc.top/api/v1/client/subscribe?token=518a7c7335e338b5180e39322e21f187
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://www6.1st-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=2f68b0e25658abb134c8be8b59cf0faf
-https://wwe.trx1.cyou/api/v1/client/subscribe?token=a2e3729beea68d94f36ef196b0c9c062
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
