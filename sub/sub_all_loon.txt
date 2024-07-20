@@ -1,8 +1,6 @@
-https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
-https://sub2.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238d56
 https://mc.jiedianxielou.workers.dev
+https://sub2.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238d56
+https://mc.jiedianxielou.workers.dev/
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://dy.smjc.top/api/v1/client/subscribe?token=518a7c7335e338b5180e39322e21f187
-https://www.moonriver.sbs/api/v1/client/subscribe?token=62ca9587f4a8489bbdac2aaa984f3cfc
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://wwe.trx1.cyou/api/v1/client/subscribe?token=a2e3729beea68d94f36ef196b0c9c062
+https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
