@@ -1,4 +1,7 @@
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/
-https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://chiguayun.pro/api/v1/client/subscribe?token=6235f94dda6d534a8f580ecdd6c6252c
+https://mc.jiedianxielou.workers.dev
+https://yaxianzhi.shop/api/v1/client/subscribe?token=59b8f0b6612d1d409b957b8b1edc8a4a
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://wwe.trx1.cyou/api/v1/client/subscribe?token=a2e3729beea68d94f36ef196b0c9c062
