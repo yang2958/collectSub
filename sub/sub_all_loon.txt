@@ -1,7 +1,6 @@
 https://mc.jiedianxielou.workers.dev/
-https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://dy.ssysub6.xyz/api/v1/client/subscribe?token=3635e556c43026801256171024ff23de
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
