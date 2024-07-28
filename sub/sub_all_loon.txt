@@ -1,6 +1,9 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://subs.zeabur.app/clash
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://cainiao172.top/api/v1/client/subscribe?token=6f2b2bc9aac4d9311a4c3fc81abca0b2&amp;flag=clash
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://www.360vpn.org/api/v1/client/subscribe?token=911dd116273f0e76db9ea247bba5138c
+https://wow.dogss-host.bond/api/v1/client/subscribe?token=5faebf2cc523476b1407cac3202c5484
 https://wwe.trx1.cyou/api/v1/client/subscribe?token=a2e3729beea68d94f36ef196b0c9c062
