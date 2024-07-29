@@ -7,13 +7,13 @@ https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://subs.zeabur.app/clash
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=74d030d627ee52512ff49ad9e068a31b
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
 https://wow.dogss-host.bond/api/v1/client/subscribe?token=1398884c269b19e03fd76ff381ad1f9f
-https://cloud.asdkd.top//link/LVzsp3GqQo42n19w?clash=1
+https://xn--cp3a08l.com/api/v1/client/subscribe?token=d9a77e1c74b9f9716d4358a2ad892798&amp;flag=meta
 https://30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com/peqi.efrainpackqs2584.workers.dev/630257ce-cc6f-42ca-b908-67a0ca6b1268?clash
+https://cloud.asdkd.top//link/LVzsp3GqQo42n19w?clash=1
 https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
@@ -25,7 +25,7 @@ https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0koi
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://xn--cp3a08l.com/api/v1/client/subscribe?token=d9a77e1c74b9f9716d4358a2ad892798&amp;flag=meta
+https://tg.z-cloud.dynv6.net/token=Rn87qQA0uYVXBnFDocvwJ9fxnUoj1jiEExPB2W2jpCe4Grt7iqiyG123Ea5DEpkG
 https://sub.xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=20dd1a943d617801d708ec230405db60
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
@@ -50,6 +50,7 @@ https://wow.dogss-host.bond/api/v1/client/subscribe?token=5faebf2cc523476b1407ca
 https://hx0618.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=121ba58bb4b6f87ef10f5ab0b4d028d9
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=74d030d627ee52512ff49ad9e068a31b
 https://xboard.texo.network/api/v1/client/subscribe?token=64ea85b94ea12adc536641ea988b9954
 https://bansub8.bplink.xyz/api/v1/client/subscribe?token=89317177cef26a3276679c5541126629
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
