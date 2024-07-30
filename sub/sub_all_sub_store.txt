@@ -42,10 +42,10 @@ https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
+https://www.pkqcloud.com/link/RHowYHWRWsmHJA2P?clash=1
 https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://www.pkqcloud.com/link/RHowYHWRWsmHJA2P?clash=1
 https://bansub7.bplink.xyz/api/v1/client/subscribe?token=e78b428259cd7b104b9273be1dcf97bc
 https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
 https://kaochang.click/api/v1/client/subscribe?token=50dbb77e7fe9170f734a810cdc65258c
