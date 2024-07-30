@@ -1,6 +1,8 @@
-https://mc.jiedianxielou.workers.dev
 https://neolink.nkkc.one/api/v1/client/subscribe?token=e6b7c04a3d78c287112d728596fdd360
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=e0e066b5e6ea55ac90d704031505df2c&amp;flag=meta
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
