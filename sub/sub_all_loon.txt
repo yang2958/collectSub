@@ -1,7 +1,6 @@
+https://neolink.nkkc.one/api/v1/client/subscribe?token=0ec8fa1dce2d03072a8ec2a36b79ec1c
 https://mc.jiedianxielou.workers.dev/
-https://neolink.nkkc.one/api/v1/client/subscribe?token=e6b7c04a3d78c287112d728596fdd360
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0koi
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
