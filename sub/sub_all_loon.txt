@@ -1,8 +1,7 @@
+https://mc.jiedianxielou.workers.dev/
+https://neolink.nkkc.one/api/v1/client/subscribe?token=e6b7c04a3d78c287112d728596fdd360
 https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://mc.jiedianxielou.workers.dev
 https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0koi
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://neolink.nkkc.one/api/v1/client/subscribe?token=0ec8fa1dce2d03072a8ec2a36b79ec1c
-http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=e0e066b5e6ea55ac90d704031505df2c&amp;flag=meta
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
