@@ -1,7 +1,4 @@
+https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=19c5599c344d4d217785176fee5d6829
+https://starlinkcloud.xyz/api/v1/client/subscribe?token=5ba4e95580963e89050945ddf20d50b1
 https://mc.jiedianxielou.workers.dev
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://tg.z-cloud.dynv6.net/token=Rn87qQA0uYVXBnFDocvwJ9fxnUoj1jiEExPB2W2jpCe4Grt7iqiyG123Ea5DEpkG
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
