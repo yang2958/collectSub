@@ -1,7 +1,6 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=1111911048479f1c4716cc7a0302cc63
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=6703942b160d96949635c9c9aa3d758d
-https://csyun.t1csyun.shop/api/v1/client/subscribe?token=dacd0b7cb328441a32ab0e48862e55ed
+https://mc.jiedianxielou.workers.dev
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://subs.zeabur.app/clash
+https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
