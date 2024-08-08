@@ -1,5 +1,6 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://xn--94q649dc94a.com/api/v1/client/subscribe?token=7e867351f23becfac70653e6d0214c94
-https://mc.jiedianxielou.workers.dev
-https://sub.lzyjc.xyz/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
 https://mc.jiedianxielou.workers.dev/
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://mc.jiedianxielou.workers.dev
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
