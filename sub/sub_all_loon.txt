@@ -1,4 +1,6 @@
 https://mc.jiedianxielou.workers.dev
-https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
-https://sub.lzyjc.xyz/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
