@@ -1,8 +1,9 @@
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev/
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://mc.jiedianxielou.workers.dev
-https://auth.newlikebooks.xyz/api/v1/client/subscribe?token=8609a1945e395789541f5b10bb7e48b5
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://mc.jiedianxielou.workers.dev/
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=d12e9b25c3d29f8722e418fd0c286af2
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+http://372ae8252c9ce608c5f7066f2177dfb1.52pokemon.top/api/v1/client/subscribe?token=1ab3efabd1e55383dd419b5c98f1e3de
