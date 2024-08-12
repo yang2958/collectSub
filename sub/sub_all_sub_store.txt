@@ -56,8 +56,8 @@ http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
 https://xn--wlqw2sc0nwqq.xyz/api/v1/client/subscribe?token=9faa2a0e4872697501e2f7946426875a&amp;flag=meta
 https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
 https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=6703942b160d96949635c9c9aa3d758d
-https://www.360vpn.org/api/v1/client/subscribe?token=6f6ccf0795ad4b815b3a2609ef95b273
 https://4e60bafd-0633-4e8d-a02a-eef51cd1ad8e.xn--mes358a.art/api/v1/client/subscribe?token=be9dc73e711bcc98bcb808eea57c7cac
+https://www.360vpn.org/api/v1/client/subscribe?token=6f6ccf0795ad4b815b3a2609ef95b273
 https://sub.xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=f62b4f8cbb84e14bcca1c58943e884ea
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
