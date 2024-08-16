@@ -1,7 +1,4 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
-https://mc.jiedianxielou.workers.dev
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=1b6d7e703d683feb3b4c6c78d67a7fb4
-https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
+https://mc.jiedianxielou.workers.dev/
