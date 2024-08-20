@@ -1,6 +1,6 @@
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://mc.jiedianxielou.workers.dev
-http://dy.hpyjc.top/api/v1/client/subscribe?token=8cae880911989d6244ee7d24d400dabc
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://mc.jiedianxielou.workers.dev/
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
