@@ -1,5 +1,4 @@
-https://linger.cc/api/v1/client/subscribe?token=6bae5740a05910d6b1369101852a15d5
-https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
+https://mc.jiedianxielou.workers.dev

@@ -1,13 +1,9 @@
 -- play_list --
 
 
-https://linger.cc/api/v1/client/subscribe?token=6bae5740a05910d6b1369101852a15d5
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 http://dishujichang.xyz/api/v1/client/subscribe?token=5b6bc131aeeccb53b207a69f78ce16be
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
@@ -37,13 +33,12 @@ https://xboard.texo.network/api/v1/client/subscribe?token=8130ec0d8451092d4f4e3e
 https://xn--wlqw2sc0nwqq.xyz/api/v1/client/subscribe?token=9faa2a0e4872697501e2f7946426875a&amp;flag=meta
 https://www.360vpn.org/api/v1/client/subscribe?token=911dd116273f0e76db9ea247bba5138c
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://syyn.ianong.cn/api/v1/client/subscribe?token=c18551e475b956e1c7085827c7305e9e
-https://music.easygourl.xyz/link/T0SulVqfmruC1mRGQy4YuNSRHr6e57Qo?config=all
 https://xboard.texo.network/api/v1/client/subscribe?token=2cb102a47330e4d23aefa6fc48cf5bc4
-https://jindouyun88.life/api/v1/client/subscribe?token=9e747464d13d756b0d5641630b2dda13
 https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
+https://jindouyun88.life/api/v1/client/subscribe?token=9e747464d13d756b0d5641630b2dda13
+https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
 https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f&amp;flag=meta
 https://ymjc.cfd/api/v1/client/subscribe?token=f1a72451da2b47410631b52c889b4d9f
 https://hx0618.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=121ba58bb4b6f87ef10f5ab0b4d028d9
@@ -67,8 +62,8 @@ https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLin
 http://103.196.20.127/api/v1/client/subscribe?token=f1279af04744dd54210317fd8ca4eb46
 https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
 https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
-http://103.196.20.127/api/v1/client/subscribe?token=b54e2034bcbba8e8e982f368d6b49fab
 http://103.196.20.127/api/v1/client/subscribe?token=9f19fcc25b9345a928f76d7832dc7537
+http://103.196.20.127/api/v1/client/subscribe?token=b54e2034bcbba8e8e982f368d6b49fab
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 
 
