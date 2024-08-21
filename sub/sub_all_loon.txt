@@ -1,4 +1,8 @@
-https://mc.jiedianxielou.workers.dev/
-https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://subs.zeabur.app/clash
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
+https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
+https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
+https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
