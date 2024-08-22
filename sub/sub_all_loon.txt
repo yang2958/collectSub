@@ -1,6 +1,4 @@
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://htdy02.mozhiti.top/api/v1/client/subscribe?token=5556e3d9039b796c29f1bb016fc9d4f8
-https://jlhcloud.us.kg/api/v1/client/subscribe?token=7f6d50b947f081ddaaf77a2ab75379f5
+https://mc.jiedianxielou.workers.dev/
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://syyn.ianong.cn/api/v1/client/subscribe?token=c18551e475b956e1c7085827c7305e9e
