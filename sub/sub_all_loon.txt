@@ -1,2 +1,5 @@
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
