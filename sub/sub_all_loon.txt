@@ -1,8 +1,6 @@
-https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=469ec845b6a65c0d4f4c5c4f8ea4fd08
+https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
