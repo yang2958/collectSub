@@ -1,7 +1,8 @@
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
-https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
-https://sux.lol/api/v1/client/subscribe?token=37a14d01b2277276853af9b8fdea5e89&amp;flag=meta
+https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689f74f
+https://mydy.xlm.plus/api/v1/client/subscribe?token=0c7874fe355c92c1ca0b80499ecf2715
+https://subs.zeabur.app/clash
+https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
+https://mc.jiedianxielou.workers.dev
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
