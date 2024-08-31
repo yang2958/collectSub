@@ -1,12 +1,4 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://cloud.yydschina.top/api/v1/client/subscribe?token=7783d526d0858c934f3e424b8c25f5e2
-https://k61kz.no-mad-world.club/link/lZnnLLD3WHfMrM40?clash=3&amp;extend=1
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
-https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
-https://s6.ssysub1.xyz/api/v1/client/subscribe?token=448b65c84c6fdbc7bd928b0b1da328fd
-https://sub2.91qaq.lol/api/v1/client/subscribe?token=d1ae9cbad27168710a96bd6bbd30b4e1
-https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
-https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://vip.365cloud.me/api/v1/client/subscribe?token=2d631f9efddeb3b42a6c949a30362590
-https://www.sstank.top/link/u6n48bednngklddq?sub=3
+https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;ttoken=767d2f8ed5d21a44b
+https://mc.jiedianxielou.workers.dev
+https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
+https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
