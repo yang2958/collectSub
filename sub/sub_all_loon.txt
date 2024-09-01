@@ -1,4 +1,8 @@
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
+https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
+https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://sux.lol/api/v1/client/subscribe?token=9fc17efd14cac41e0bfdd6ae7ee96dd9
+https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689f74f
