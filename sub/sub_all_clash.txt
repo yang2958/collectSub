@@ -1,8 +1,10 @@
-http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
+https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
+https://sub2.bighneko.top/api/v1/client/subscribe?token=e07f1d406c5aeaebb21dbcce1a6115c5
+https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=af859bb658c5c454bc24b284d5e36e79
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://syyn.xyz/api/v1/client/subscribe?token=8c1261d3e0b3409af7a4baa3a9e645e3
+https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
