@@ -1,7 +1,4 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://subs.zeabur.app/clash
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=c3159a08ec178eadb8fa89ee5700dd03
 https://mc.jiedianxielou.workers.dev
-https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
