@@ -5,8 +5,6 @@ https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6d
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://xboard.texo.network/api/v1/client/subscribe?token=2cb102a47330e4d23aefa6fc48cf5bc4
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
@@ -15,8 +13,8 @@ https://subs.zeabur.app/clash
 https://sub.sanfen018.xyz/api/v1/client/subscribe?token=345e0fd313f9ef93b0ff8476fe54b4cd&amp;flag=clash
 https://y4ckkxagxaxxefca.duboji.vip/search?token=c6cbfd0339db299fa238033eacd7d364
 https://d1to2me5cb4qc0.cloudfront.net/api/v1/client/subscribe?token=ab2f50f47bf28d3a7ee2dbdcbfda4b86
-http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
 https://ff3a7d92-7568-4cca-a053-37087bee70b7.xn--mes358a.art/api/v1/client/subscribe?token=e4a3b35933ea8f386cd4572d7fc40a91
+http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
@@ -48,8 +46,8 @@ https://xn--wlqw2sc0nwqq.xyz/api/v1/client/subscribe?token=9faa2a0e4872697501e2f
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
-https://free.colacloud.free.hr/api/v1/client/subscribe?token=8e99b21ebc6d7fd00140cbe66b94123e
 https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
+https://free.colacloud.free.hr/api/v1/client/subscribe?token=8e99b21ebc6d7fd00140cbe66b94123e
 https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
 https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
 https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
