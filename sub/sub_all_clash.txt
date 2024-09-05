@@ -1,7 +1,9 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=3493bd98dbb09cb1ba37f03a1796485e
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
+https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
+https://service-avmn443l-1312645837.sh.apigw.tencentcs.com/api/v1/client/subscribe?token=d1d3c683c469abfe5a0d7d4ec92903d0
+https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
 https://vip.365cloud.me/api/v1/client/subscribe?token=2d631f9efddeb3b42a6c949a30362590
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
+https://xcyun.co/xe45lgf21?token=b0e4156ad42a2be48ca1f35ea73bee7e
