@@ -1,8 +1,10 @@
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=af859bb658c5c454bc24b284d5e36e79
+https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
 https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
-https://sub.tku2.com/api/v1/client/subscribe?token=f42471e1da8b5ad07bcd676415c03f09
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://service-fy4hli0a-1312645837.nj.apigw.tencentcs.com/api/v1/client/subscribe?token=6f4ee12ffa3d2ea32e0a2361833025fe
 https://sub2.bighneko.top/api/v1/client/subscribe?token=e07f1d406c5aeaebb21dbcce1a6115c5
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
