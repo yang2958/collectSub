@@ -1,6 +1,7 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
