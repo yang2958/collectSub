@@ -1,8 +1,7 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://auth.newlikebooks.xyz/api/v1/client/subscribe?token=8609a1945e395789541f5b10bb7e48b5
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://mydy.xlm.plus/api/v1/client/subscribe?token=0c7874fe355c92c1ca0b80499ecf2715
-https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=18badde75f3248c19093a35ddee68b52
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://csgo1.fask511.cfd/api/v1/client/subscribe?token=1a14738c9fb45740a22099c000bf2275
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://s1.iajsy.lol/api/v1/client/subscribe?token=95ff71c2f98cc4e3a5eb97ee4d80988e
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
+https://wvw.guanxi.cloudns.be/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
