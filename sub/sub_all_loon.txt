@@ -1,6 +1,5 @@
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;ttoken=767d2f8ed5d21a44b
-http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
