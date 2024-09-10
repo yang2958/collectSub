@@ -1,5 +1,6 @@
-http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
-https://mc.jiedianxielou.workers.dev/
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://subs.zeabur.app/clash
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
