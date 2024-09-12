@@ -1,4 +1,5 @@
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://service-69kfaex1-1312645837.bj.apigw.tencentcs.com/api/v1/client/subscribe?token=eb30fd7e51c029de58038d7a458b3a55
-https://xcyun.co/xe45lgf21?token=b0e4156ad42a2be48ca1f35ea73bee7e
+https://api.xinyo.vip/api/v1/client/subscribe?token=32766ad77e22239683fc3b9e2a06f4bd
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
+https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
