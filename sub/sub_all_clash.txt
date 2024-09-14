@@ -1,8 +1,3 @@
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
-https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
-https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=ccd95233c40b93bb970b07b3337dc3f8
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://ng.69hub.cc/api/v1/client/subscribe?token=aac6c97c11763e9f663a4cca6b98f7fc
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=819989e04f35b7479785023008386c5d
+https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
