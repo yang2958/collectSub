@@ -1,7 +1,6 @@
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://api.acaisbest.shop/api/v1/client/subscribe?token=ea7046282fc195883735eb31b9cbc8f4
-https://dy.smjc.top/api/v1/client/subscribe?token=5bd7e01f6a299be186e5cd44f9c6c150
-https://link02.pikachucloud.site/api/v1/client/subscribe?token=928d0cf2c229c97f106fe6edcbd4c319
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://qingchayun.icu/api/v1/client/subscribe?token=80418297fba5a4f4ac7f21cdcf847e6d
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0708qf9?wkalYsYKGuePe5ry4yXcCFbL2BZtEQBvM4jsHdK6lPswFg?Z6z/K0hzuAk9CYZRPo5O7ZptTUHxD3s2Kj4mRe0Ww==
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
+https://service-fy4hli0a-1312645837.nj.apigw.tencentcs.com/api/v1/client/subscribe?token=6f4ee12ffa3d2ea32e0a2361833025fe
+https://syyn.xyz/api/v1/client/subscribe?token=8c1261d3e0b3409af7a4baa3a9e645e3
+https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
