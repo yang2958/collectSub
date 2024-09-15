@@ -46,8 +46,8 @@ https://free.colacloud.free.hr/api/v1/client/subscribe?token=a682a7c86bbfc5e985c
 https://free.colacloud.free.hr/api/v1/client/subscribe?token=6638b42afca531e78d4feeb6602c6721
 https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
 https://jc.sux.lol/api/v1/client/subscribe?token=fa7a42b68f3a7f09aa26488428f50f07
-https://sub.eyujichang.com/api/v1/client/subscribe?token=0c7b2b8bb2e443bd5e86bc3efd66ddbd
 https://pro.76898102.xyz/api/v1/client/subscribe?token=7f0b99c8116d910c1115f2ed992d1c21&amp;flag=meta
+https://sub.eyujichang.com/api/v1/client/subscribe?token=0c7b2b8bb2e443bd5e86bc3efd66ddbd
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
 https://sux.lol/api/v1/client/subscribe?token=9fc17efd14cac41e0bfdd6ae7ee96dd9
