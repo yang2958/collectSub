@@ -47,6 +47,7 @@ https://free.colacloud.free.hr/api/v1/client/subscribe?token=6638b42afca531e78d4
 https://sub.eyujichang.com/api/v1/client/subscribe?token=0c7b2b8bb2e443bd5e86bc3efd66ddbd
 https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
 https://sux.lol/api/v1/client/subscribe?token=9fc17efd14cac41e0bfdd6ae7ee96dd9
+https://xn--cp3a08l.com/api/v1/client/subscribe?token=4d85348f4664e3260248daf2ca97685a
 https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
@@ -1406,6 +1407,7 @@ https://xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=eefdb57709511414d37e69
 https://xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=eefdb57709511414d37e691186b5bf0e#subscribe?token=eefdb57709511414d37e691186b5bf0e
 https://xn--94q649dc94a.com/api/v1/client/subscribe?token=7e867351f23becfac70653e6d0214c94
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=04c39a54cb06159161e49d562a84d101&amp;flag=meta
+https://xn--cp3a08l.com/api/v1/client/subscribe?token=4d85348f4664e3260248daf2ca97685a
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=597279be7fdcc45132d7aeb8db2986fb
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=609beb7ba6247d224e5613ac20b505e0
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=6b248a231082b710aa734a4abf724db0
