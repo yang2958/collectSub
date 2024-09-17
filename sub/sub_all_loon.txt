@@ -1,5 +1,6 @@
-https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
+https://sub.19993999.xyz/api/v1/client/subscribe?token=5e86905ce536430c6a5d081034486540
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://mc.jiedianxielou.workers.dev/
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
