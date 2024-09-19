@@ -1,5 +1,3 @@
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+http://ant77.top/api/v1/client/subscribe?token=d580223a12d39508006e655dbc34b0fa
+https://qingchayun.icu/api/v1/client/subscribe?token=80418297fba5a4f4ac7f21cdcf847e6d
+https://mc.jiedianxielou.workers.dev
