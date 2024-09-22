@@ -1,6 +1,8 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=3493bd98dbb09cb1ba37f03a1796485e
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://pro.76898102.xyz/api/v1/client/subscribe?token=7f0b99c8116d910c1115f2ed992d1c21&amp;flag=meta
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
+https://cedb4ccc-89b7-3a24-962c-ea8f65b11deb.aliyunsub.com/link/3kjWSxNGuWbqnUHP?sub=3&amp;extend=1
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=b3a4ebe842dd5365ebc7820c647620dd
+https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=9f94bdaabe3a18cbf142101e29f451df
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
