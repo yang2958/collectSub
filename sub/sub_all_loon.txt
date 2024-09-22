@@ -1,3 +1,6 @@
-https://xs.mashiroshina.top/api/v1/client/subscribe?token=be88e9c38f939b8127ace25dd6c15563
-https://mc.jiedianxielou.workers.dev/
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://mc.jiedianxielou.workers.dev
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://xs.mashiroshina.top/api/v1/client/subscribe?token=6948ec33066564047f0fff57bb29b116
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
