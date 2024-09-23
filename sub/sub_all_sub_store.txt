@@ -8,10 +8,9 @@ https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af5
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subs.zeabur.app/clash
 http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
 https://68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org/trojan-6qo.pages.dev/95b?clash
-https://too.st/8ug
 https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=b37029894a22d0f5dd69e5b38a1c30b2
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -44,8 +43,8 @@ https://sub.eyujichang.com/api/v1/client/subscribe?token=0c7b2b8bb2e443bd5e86bc3
 https://free.colacloud.free.hr/api/v1/client/subscribe?token=6638b42afca531e78d4feeb6602c6721
 https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
 https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
-https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 https://jc.sux.lol/api/v1/client/subscribe?token=fa7a42b68f3a7f09aa26488428f50f07
