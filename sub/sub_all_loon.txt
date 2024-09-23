@@ -1,5 +1,6 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
-https://subs.zeabur.app/clash
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org/trojan-6qo.pages.dev/95b?clash
