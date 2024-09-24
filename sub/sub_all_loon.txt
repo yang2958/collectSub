@@ -1,6 +1,6 @@
-https://subs.zeabur.app/clash
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
-https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
-https://mc.jiedianxielou.workers.dev/
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://mc.jiedianxielou.workers.dev/
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
