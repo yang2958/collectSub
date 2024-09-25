@@ -3,15 +3,14 @@
 
 https://maple.icu/api/v1/client/subscribe?token=0e530cd4381b22da678315838da5875c
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=b37029894a22d0f5dd69e5b38a1c30b2
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subs.zeabur.app/clash
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://sub.vpntz.com/api/v1/client/subscribe?token=cc517021f7453860191454e111455507
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
-https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
-https://too.st/8ug
 https://68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org/trojan-6qo.pages.dev/95b?clash
+https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
+http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
+https://too.st/8ug
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=757f549ca5f13a0c396902b4061798ae
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
@@ -22,7 +21,7 @@ https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=757f549ca5f13a0c396902b4061798ae
+https://maho.chipsfuck.fish/api/v1/client/subscribe?token=2cb09e8bb6690258ceadf5cd8e5a57db
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
@@ -31,6 +30,7 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://haitunfree.luodaifan.top/haitunfree
 https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
 https://free.colacloud.free.hr/api/v1/client/subscribe?token=8e99b21ebc6d7fd00140cbe66b94123e
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
@@ -48,6 +48,7 @@ https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e
 https://jc.sux.lol/api/v1/client/subscribe?token=fa7a42b68f3a7f09aa26488428f50f07
 https://x.nsa.cc/api/v1/client/subscribe?token=888fa1629a70b5492ba21d17b1f14177
 https://duijie.pingziyun.top/api/v1/client/subscribe?token=f886fedc5b027490060ae32104a2b553
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=b37029894a22d0f5dd69e5b38a1c30b2
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
 https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
@@ -842,6 +843,7 @@ https://m33.spwvpn.com/api/v1/client/subscribe?token=947b29e1c691abb44036f208208
 https://m33.spwvpn.com/api/v1/client/subscribe?token=c7eb5c2391bd9cc71da3b5a809e87602
 https://m33.spwvpn.com/api/v1/client/subscribe?token=cd96d63ce3c02c0fcfccbca8b4736316
 https://magicae.pics/link/SbYmmk8yVeK7ULPz?sub=3&amp;extend=1
+https://maho.chipsfuck.fish/api/v1/client/subscribe?token=2cb09e8bb6690258ceadf5cd8e5a57db
 https://maple.icu/api/v1/client/subscribe?token=0e530cd4381b22da678315838da5875c
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
