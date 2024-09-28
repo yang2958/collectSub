@@ -1,2 +1,4 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
+https://mc.jiedianxielou.workers.dev/
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mc.jiedianxielou.workers.dev
 https://68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org/trojan-6qo.pages.dev/95b?clash
