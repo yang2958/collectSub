@@ -1,6 +1,4 @@
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
-https://csgo1.fask511.cfd/api/v1/client/subscribe?token=1a14738c9fb45740a22099c000bf2275
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
