@@ -1,5 +1,6 @@
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://12123.org/api/v1/client/subscribe?token=758b131f7985f3fd39552d9893e579cc
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://subs.zeabur.app/clash
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://mc.jiedianxielou.workers.dev
+https://xsus.wiki/api/v1/client/subscribe?token=b962a80d0432c2afc094cee132fdb319&amp;flag=clash
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
