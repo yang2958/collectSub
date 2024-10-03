@@ -1,6 +1,7 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=3493bd98dbb09cb1ba37f03a1796485e
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub.xinyo.vip/api/v1/client/subscribe?token=3378f3d5f9ab4d07d898ecb9132546a7
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
+https://haitunfree.luodaifan.top/haitunfree
+https://free.ninecloud.co/api/v1/client/subscribe?token=d4cc0df4cd2f498e0a81d59bcf5eb2c3
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
