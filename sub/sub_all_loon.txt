@@ -1,4 +1,4 @@
-https://csgo1.fask511.cfd/api/v1/client/subscribe?token=1a14738c9fb45740a22099c000bf2275
 https://mc.jiedianxielou.workers.dev
-https://api.xinyo.vip/api/v1/client/subscribe?token=3493bd98dbb09cb1ba37f03a1796485e
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://mc.jiedianxielou.workers.dev/
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
+https://mymy.lanyanyun.co/api/v1/client/subscribe?token=9042139c80c6831d48f24ac2185b368b
