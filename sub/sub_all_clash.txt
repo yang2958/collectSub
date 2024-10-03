@@ -1,6 +1,10 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
-https://dd.xz61.cn/api/v1/client/subscribe?token=b29521923925273bc9605eef2ac3bfe0
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE04ODdacUFzOTlrTU04RGtOWk0vRUZzMGNUYWdTN0NoZ1pCVkR4ZnRpbW1iWmZDM2wvd3RVeFY3ekM4aHRwNmhIS0UrYkFhQlRHY1NBZWdxYnlEVkNlK2lpRW5aZ1M3RWN0Y1VvVT0
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=1356f5110c60f1e8823a0962af290c72
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
+https://free.ninecloud.co/api/v1/client/subscribe?token=d4cc0df4cd2f498e0a81d59bcf5eb2c3
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://prob.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=43d0b091b796df96d53bbf52a73e1089
+https://subs.zeabur.app/clash
+https://ttc01.xyz/api/v1/client/subscribe?token=de369ae7689b67e8cc6267ea5b020372
