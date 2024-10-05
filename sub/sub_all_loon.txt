@@ -1,4 +1,5 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://free.ninecloud.co/api/v1/client/subscribe?token=a5276826722fa93021f4f610145ec192
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
