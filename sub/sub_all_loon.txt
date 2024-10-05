@@ -1,8 +1,2 @@
-https://wjkc123.com/api/subscript/clash/66e588aaaf23a823ae52a4cd/a099bca2-2282-40a6-a769-a0d91a246c39
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://mc.jiedianxielou.workers.dev/
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://dd.csjc.win/api/v1/client/subscribe?token=5791161d7d526f6155f4b3cc5a15a162
-https://free.ninecloud.co/api/v1/client/subscribe?token=a5276826722fa93021f4f610145ec192
+https://mc.jiedianxielou.workers.dev
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
