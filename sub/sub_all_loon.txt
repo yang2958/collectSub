@@ -1,6 +1,4 @@
-https://mc.jiedianxielou.workers.dev/
-https://subs.zeabur.app/clash
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://dy.smjc.top/api/v1/client/subscribe?token=c5b3cf0d6668c4a4f74c5a859ab41daa
-https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://prob.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=43d0b091b796df96d53bbf52a73e1089
