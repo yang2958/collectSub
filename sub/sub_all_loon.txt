@@ -1,4 +1,3 @@
-https://subs.zeabur.app/clash
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
