@@ -1,5 +1,4 @@
-https://mc.jiedianxielou.workers.dev
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=18badde75f3248c19093a35ddee68b52
-https://ktmcloud.men/api/v1/client/subscribe?token=1aeb406902ce8bab79fa246df04e45c4&amp;insert=
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
