@@ -1,7 +1,2 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
-https://apisub.mcwy.xyz/api/v1/client/subscribe?token=89424b5caa87f0bfc5d05da83c330764
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://free.ninecloud.co/api/v1/client/subscribe?token=a5276826722fa93021f4f610145ec192
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
