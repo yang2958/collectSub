@@ -1,8 +1,6 @@
-https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
-https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://cloudcat.top/api/v1/client/subscribe?token=9ce4eed8746e59bd75bf732867c0c309
-https://feiniaoyun11.life/api/v1/client/subscribe?token=dc909193125adf8993a68eaed34b0315
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
 https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://proc.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=bd059c4675989a3d648768746743067d
