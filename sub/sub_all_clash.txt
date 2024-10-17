@@ -1,9 +1,10 @@
-https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
-https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=df6c8f83f5d2b40eda2334475632f856
+http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://mc.jiedianxielou.workers.dev/
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
 https://sub.nodeup.top/IBMQR/MXW62/JK?token=6545aa6679126b0b30fdc33a4fe5183a
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
