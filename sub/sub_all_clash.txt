@@ -1,6 +1,11 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://mc.jiedianxielou.workers.dev
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://pavo.eu.org/api/v1/client/subscribe?token=7f0a1e6c8b5fc1560cdc681aff22d076
+https://gbtgurl.me/api/v1/client/subscribe?token=822cc4ca6f473feab94b5e36cf881e7c
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=d14d8550cc425bdf8e44e2a6c9951759
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
+https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
