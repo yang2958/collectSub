@@ -1,6 +1,4 @@
-https://pavo.eu.org/api/v1/client/subscribe?token=4336f829537b98be8cb36254a33ad528
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
-https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
-http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
+https://mc.jiedianxielou.workers.dev
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
