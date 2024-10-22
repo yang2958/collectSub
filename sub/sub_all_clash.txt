@@ -1,7 +1,7 @@
-http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
-https://gbtgurl.me/api/v1/client/subscribe?token=5bb62dafaf4567b4113296e7f3b2a3ad
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://k61kz.no-mad-world.club/link/lZnnLLD3WHfMrM40?clash=3&amp;extend=1
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
-https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2
+https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://mc.jiedianxielou.workers.dev/
+https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
+https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
