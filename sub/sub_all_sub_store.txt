@@ -2,7 +2,6 @@
 
 
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
@@ -14,6 +13,7 @@ https://too.st/8ug
 https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
 https://sub.cloudlion.me/api/v1/client/subscribe?token=89ec764c8b2faeb0361a1e91944bb537
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
+https://dadada.acaisbest.com/api/v1/client/subscribe?token=c46081bdba2df16b6a892e3f7d98bfa8
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
@@ -37,8 +37,8 @@ https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe03
 https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://42.194.232.60:10387/iplist/T3c2r8b8Jea2dVUn?sub=3
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
+https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
 https://sub.cloudlion.me/api/v1/client/subscribe?token=b102b3ac2b9fe46aad9deb9d3dcf7e9b
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://free.andiliba.cc/link/f2fa04a7dc6856dc?clash=1
@@ -480,6 +480,7 @@ https://d1to2me5cb4qc0.cloudfront.net/api/v1/client/subscribe?token=ab2f50f47bf2
 https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=9f94bdaabe3a18cbf142101e29f451df
 https://d57761d6-e86d-4f55-9a5d-aece8a55cc26.xn--mes358a.art/api/v1/client/subscribe?token=fec0a77ee89b91e7b14984b8435112c9
 https://dadada.acaisbest.com/api/v1/client/subscribe?token=7946ca4a658b61cf66274d7aca92b358
+https://dadada.acaisbest.com/api/v1/client/subscribe?token=c46081bdba2df16b6a892e3f7d98bfa8
 https://damp-mode-4de5.6006101.workers.dev/sub?url=https%3A%2F%2Ftkpotc.xyz%2F%3FL2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg%2FZXE9d2luZG93cyZ1cms9YWY0NTYzY2EtZWQxNS03ODk2LWIyMzItOTdycDAzZjY4NGRiJm1tPTQ1NjMyJjY5&amp;expand=true&amp;emoji=true&amp;list=false&amp;udp=false&amp;tfo=false&amp;scv=false
 https://dash.djjc.cfd/api/v1/client/subscribe?token=cb62495259cc98c99ee4d76e65982be0
 https://dash.ftclashcloud.mom/api/v1/client/subscribe?token=1069a4f948b27ed6d7d5a95f212ccbd0
