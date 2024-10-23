@@ -14,8 +14,8 @@ https://dadada.acaisbest.com/api/v1/client/subscribe?token=7946ca4a658b61cf66274
 https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
 https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
 https://too.st/8ug
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://sub.cloudlion.me/api/v1/client/subscribe?token=89ec764c8b2faeb0361a1e91944bb537
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
