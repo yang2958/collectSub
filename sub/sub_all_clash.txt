@@ -1,8 +1,3 @@
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
-https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
-https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://xs.mashiroshina.top/api/v1/client/subscribe?token=307cc562689201ef52ffde46732b6b9d
