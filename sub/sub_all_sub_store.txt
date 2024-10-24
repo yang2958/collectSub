@@ -35,9 +35,9 @@ https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe03
 https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://42.194.232.60:10387/iplist/T3c2r8b8Jea2dVUn?sub=3
+https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2
 https://xn--mesz9ptugxg.com/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2
 https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2&amp;types=vless
-https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2
 https://sub.cloudlion.me/api/v1/client/subscribe?token=89ec764c8b2faeb0361a1e91944bb537
 https://sub.cloudlion.me/api/v1/client/subscribe?token=b102b3ac2b9fe46aad9deb9d3dcf7e9b
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
