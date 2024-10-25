@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://dadada.acaisbest.com/api/v1/client/subscribe?token=c46081bdba2df16b6a892e3f7d98bfa8
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subs.zeabur.app/clash
@@ -38,9 +37,9 @@ https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=d11a89780
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://42.194.232.60:10387/iplist/T3c2r8b8Jea2dVUn?sub=3
 https://sub.cloudlion.me/api/v1/client/subscribe?token=72b9143edf2c933abc95d0b27bccb036
-https://hongxingdl.com/hxvip?token=f1c9d67d69add8b03f8ef8613caec477
-https://too.st/8ug
 https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
+https://too.st/8ug
+https://hongxingdl.com/hxvip?token=f1c9d67d69add8b03f8ef8613caec477
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
 https://free.andiliba.cc/link/f2fa04a7dc6856dc?clash=1
 https://free.ninecloud.co/api/v1/client/subscribe?token=d4cc0df4cd2f498e0a81d59bcf5eb2c3
