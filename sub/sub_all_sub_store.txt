@@ -7,16 +7,15 @@ https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subs.zeabur.app/clash
 https://damp-mode-4de5.6006101.workers.dev/sub?url=https%3A%2F%2Ftkpotc.xyz%2F%3FL2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg%2FZXE9d2luZG93cyZ1cms9YWY0NTYzY2EtZWQxNS03ODk2LWIyMzItOTdycDAzZjY4NGRiJm1tPTQ1NjMyJjY5&amp;expand=true&amp;emoji=true&amp;list=false&amp;udp=false&amp;tfo=false&amp;scv=false
-https://subs.pithecia.com/api/v1/client/subscribe?token=77a175ccb5f2693374f3c19fa1759158
-https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
 https://too.st/8ug
+https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://sub.alice.sale/api/v1/client/subscribe?token=15c40ba86ea569796a752d547b73d3ea
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
@@ -27,8 +26,8 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
 https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
-https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://followcloud.space/api/v1/client/subscribe?token=22f152eb816e803a7aa657ef10e084bd
+https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
@@ -51,6 +50,7 @@ http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a5257836
 https://app.jisovpn.site/api/v1/client/subscribe?token=b57605ca73be8d4d20d9e369720e17c0
 https://app.jisovpn.site/api/v1/client/subscribe?token=352049eecc0d30658488bcf11184018e
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://app.jisovpn.site/api/v1/client/subscribe?token=5fc3e6eb0c07f3e3c11a5615618cac68
 
 
 -- sub_list --
@@ -339,6 +339,7 @@ https://app.cloudlion.me/api/v1/client/subscribe?token=3d3164aceef39d2809d3bafbd
 https://app.cloudlion.me/api/v1/client/subscribe?token=6f9e141c70cb41781c9cfe41057d24c3&amp;types=all
 https://app.cloudlion.me/api/v1/client/subscribe?token=e759c440f53a07f75f4d6455239cb017
 https://app.jisovpn.site/api/v1/client/subscribe?token=352049eecc0d30658488bcf11184018e
+https://app.jisovpn.site/api/v1/client/subscribe?token=5fc3e6eb0c07f3e3c11a5615618cac68
 https://app.jisovpn.site/api/v1/client/subscribe?token=b57605ca73be8d4d20d9e369720e17c0
 https://artislg.com/api/v1/client/subscribe?token=4f8651d3ddd35e346d50e3b01f6afbb3
 https://artislg.com/api/v1/client/subscribe?token=59a1f6f3699f8d1976f7e695d5b1f284
@@ -1334,6 +1335,7 @@ https://subs.pithecia.com/api/v1/client/subscribe?token=77a175ccb5f2693374f3c19f
 https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
 https://subs.zeabur.app/clash
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=757f549ca5f13a0c396902b4061798ae
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=b7198e560adef8cd708977d7602e975e
 https://subscribe.iint.cc/api/v1/client/subscribe?token=9a68babeeaf17e5c96ca243ed9424b6c
 https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
