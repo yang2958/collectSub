@@ -1,5 +1,7 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://gbtgurl.me/api/v1/client/subscribe?token=3f6db7017f0d251d7d156a114a48a4ee
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://subs.zeabur.app/clash
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
+https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
