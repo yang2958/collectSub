@@ -1,7 +1,8 @@
-https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2&amp;types=vless
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=87ac36beeb72ab1d00e20ea4646f7a93
+https://cdn1711437153.ppgnginx.com/api/v1/client/subscribe?token=37536af5f39e95dc9aed38399fac8ad4
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://cloudfisher.net/jsk34?token=77adb97705db4fbc729a9cfcd5808db0
+https://sub.nodeup.top/IBMQR/MXW62/JK?token=6545aa6679126b0b30fdc33a4fe5183a
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
