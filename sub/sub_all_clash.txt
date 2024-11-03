@@ -1,8 +1,5 @@
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
-https://prob.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=43d0b091b796df96d53bbf52a73e1089
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
-https://subs.zeabur.app/clash
+https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
+https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
+https://hsaii.mejd.cn/api/v1/client/subscribe?token=a4989d7753cfeba8e4b1fa96383228ea
+https://subs.doubao.one/api/v1/client/subscribe?token=aa8e2606b6c68ad2358a91fad464b461
