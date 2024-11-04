@@ -1,5 +1,8 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://mc.jiedianxielou.workers.dev/
+https://sub.miaolianyun.vip/mly_sub?token=85f5ddffe6218f19e0229a188df640a0
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://qwerzfdsfgrtds.mejd.cn/api/v1/client/subscribe?token=8fb5093dd725ddeec1d6f3e6d8e47281
