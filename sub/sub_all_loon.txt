@@ -1,7 +1,5 @@
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
-https://mc.jiedianxielou.workers.dev/
+http://ly.ccwink.cc/api/v1/client/subscribe?token=74faf7ece2277eb094d5709e05ca1986
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
