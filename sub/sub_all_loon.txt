@@ -1,6 +1,7 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
+https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
