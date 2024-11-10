@@ -1,4 +1,7 @@
+https://gbtgurl.me/api/v1/client/subscribe?token=3f6db7017f0d251d7d156a114a48a4ee
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
+https://followcloud.space/api/v1/client/subscribe?token=05ae947b0ceff9662d5a73fccc13cd35
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
