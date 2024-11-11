@@ -1,7 +1,6 @@
 https://mc.jiedianxielou.workers.dev
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev/
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
