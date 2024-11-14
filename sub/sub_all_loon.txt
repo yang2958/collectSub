@@ -1,6 +1,7 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://sub.miaolianyun.vip/mly_sub?token=0b0bb96569807a341d8e6d74b4428178
+https://hongxingdl.com/hxvip?token=2f9906bc94777354f1161251d370abfa
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://ck2.yunxiangvip.mom/api/v1/client/subscribe?token=f24ac678c3991a445cfdb273e52f8d91
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://fengqunvpnvip.jmvks.cn/api/v1/client/subscribe?token=ece6138e631ccca0a01448ef3afe672a
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
