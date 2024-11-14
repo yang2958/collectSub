@@ -1,2 +1,6 @@
-https://app.jisovpn.site/api/v1/client/subscribe?token=b87afe5c85c59f422ded2956e53ebdc5
-https://koumakan.quickline.top/api/v1/client/subscribe?token=bf150ec580d53d03c6997e8624e2e7cd
+https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
+https://sub.miaolianyun.vip/mly_sub?token=0b0bb96569807a341d8e6d74b4428178
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://ck2.yunxiangvip.mom/api/v1/client/subscribe?token=f24ac678c3991a445cfdb273e52f8d91
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
