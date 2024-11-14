@@ -1,5 +1,5 @@
-https://www.cwy-water.us.kg/api/v1/client/subscribe?token=daa0f9c43c5b7f91a08aee21dab0138c
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://mc.jiedianxielou.workers.dev
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
