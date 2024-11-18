@@ -1,3 +1,4 @@
-https://fbapiv2.fbsublink.com/flydsubal/oz9aa3eflzapwvsy?sub=2&amp;extend=1
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://mochizuki.top/api/v1/client/subscribe?token=eb28722c15386298292467ff303725c7
+https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
