@@ -1,6 +1,5 @@
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
-https://cat.ikkt.cn/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+http://ly.ccwink.cc/api/v1/client/subscribe?token=74faf7ece2277eb094d5709e05ca1986
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
