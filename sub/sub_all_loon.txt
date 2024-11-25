@@ -1,6 +1,5 @@
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
 https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://url.mtdwoodwork.com/api/v1/client/subscribe?token=2970cd8b058a0a1e1f4e84a30952800e
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
