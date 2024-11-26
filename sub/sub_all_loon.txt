@@ -1,6 +1,5 @@
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
 https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://www.catssr.xyz/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
-https://vot.981176.xyz/api/v1/client/subscribe?token=b5a9324106ed2028e3565ac78a35e8b7
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://v1.mk/isL5h1w
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
