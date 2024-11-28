@@ -1,8 +1,7 @@
-http://101.200.14.80:3325/api/v1/client/subscribe?token=4bbd5149d786e6ead646d4b5bbaee6a8
-https://353g78qgfq.surfcat.store/api/v1/client/subscribe?token=8b8d3ad15a6da23c6f534cc947487247
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://sub.miaolianyun.vip/mly_sub?token=01f86b33f19f09a1e0a46338461bc348
-https://www.dabai.in/link/CBD3dq3z8U1eSIwD?list=shadowrocket
-https://www.kuaidog008.top/api/v1/client/subscribe?token=09266cd2f72f9f6a82ca249d1147aa37
+https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://sub.czrk168.top/api/v1/client/subscribe?token=135c202776a837a637ec1e03fe0d8102
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
