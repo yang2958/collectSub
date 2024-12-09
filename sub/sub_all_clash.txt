@@ -1,8 +1,7 @@
-http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
-https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://pqjc.site/api/v1/client/subscribe?token=ca09d4f1cc35e3fcaef9f4856a0f7ad9
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
-https://xn--mesz9ptugxg.com/api/v1/client/subscribe?token=39346d0c963582a5c2084c341b774a17
+http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
+https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://pqjc.site/api/v1/client/subscribe?token=e767135e00a58db0af9ab980ab5bebae
+https://sub.qingfengyun.icu/api/v1/client/subscribe?token=513aff97b9742122b2ae3be03839ac9b
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
