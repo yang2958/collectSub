@@ -1,13 +1,4 @@
-http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://dy-1.smjcdh.com/api/v1/client/subscribe?token=6b3b00e21caf1d26f6d02435f8417c7c
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://maho.chipsfuck.fish/api/v1/client/subscribe?token=2cb09e8bb6690258ceadf5cd8e5a57db
-https://pqjc.site/api/v1/client/subscribe?token=bd67375d147abe646518376c0653b679&amp;flag=meta
-https://sub.xinyo.vip/api/v1/client/subscribe?token=191ff749aef5fc340847cb7b846e8be1
-https://subs.pithecia.com/api/v1/client/subscribe?token=eb235ba978096ae510540e8845ea2c70
-https://ttc01.xyz/api/v1/client/subscribe?token=de369ae7689b67e8cc6267ea5b020372
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+https://pqjc.site/api/v1/client/subscribe?token=5edc13859a73d260b04a00cf17914a5e&amp;flag=meta
+https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
+https://subone.xyjc.xyz/api/xyjcxyz?token=6d532bb1a3961d96aa7c55826cbafe36
