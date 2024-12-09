@@ -1,6 +1,8 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
+https://bb.jmvks.cn/api/v1/client/subscribe?token=44be5c8f26059b401cfeee3b82422c17
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://mc.jiedianxielou.workers.dev/
+http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
