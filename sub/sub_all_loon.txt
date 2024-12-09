@@ -1,6 +1,7 @@
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=d1c1df95b82e83bfe9524e3d85cf306b
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
