@@ -1,10 +1,4 @@
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
-https://cloud.yydschina.top/api/v1/client/subscribe?token=7783d526d0858c934f3e424b8c25f5e2
-https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://sub.czrk168.top/api/v1/client/subscribe?token=135c202776a837a637ec1e03fe0d8102
-https://sub.yspeeds.uk/api/v1/client/subscribe?token=30c8b46b8d1dbb01ecc79b8bd239bf1f
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=29e76b78176d9c53a85333df23b38c49
-https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
+https://pqjc.site/api/v1/client/subscribe?token=0d41f5bd237d1ab92b907e1e7d5e5cb3
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://ss.81dlg.com/dy/ss?token=7a2553af9f2fb3fb77aa660cfbfbe981
