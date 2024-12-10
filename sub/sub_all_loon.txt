@@ -1,6 +1,5 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://mc.jiedianxielou.workers.dev/
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://mc.jiedianxielou.workers.dev
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
