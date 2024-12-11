@@ -1,8 +1,6 @@
 https://mc.jiedianxielou.workers.dev
-https://1ytcom01.1yunti.net/api/v1/client/subscribe?token=a4f4afd3c81a694441731c64dbe17d47
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=d6681ca8e218af8f2ae0699e542e419c#Fastsoks
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
-https://jilu.uuvpn.xyz/api/v1/client/subscribe?token=c9fd509e51f08bec3182c29056e28772
-https://ch.cukug.website/api/v1/client/subscribe?token=532b5378b3a92070cee1f6aa9cd6f577
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+http://gbtgurl01.org/api/v1/client/subscribe?token=36e8a67632a8d0f0c0eea58b099a0826
