@@ -1,5 +1,4 @@
-https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
-https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
