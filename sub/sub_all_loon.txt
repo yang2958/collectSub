@@ -1,7 +1,6 @@
 https://mc.jiedianxielou.workers.dev
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev/
-https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=d6681ca8e218af8f2ae0699e542e419c#Fastsoks
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
+https://569cdn.1010520.click/api/v1/client/subscribe?token=2af75f7c27dfa0e5aa175c7c64c01f28
