@@ -1,8 +1,4 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=ba7b1ba7d530350c25f13932267d272a
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
-https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=clash
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://xn--fhqu06a8m1asto.icu/linju?token=b12082b5d7004322c953cfef00fed360
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
+https://www.kuaidog008.top/api/v1/client/subscribe?token=fc4f70aa06a9987cfd2b1a4c52117c24
+https://xn--fhqu06a8m1asto.icu/linju?token=452218820b59174be3213ed661b9685a
