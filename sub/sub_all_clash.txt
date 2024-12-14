@@ -1,4 +1,8 @@
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://mc.jiedianxielou.workers.dev/
+https://pqjc.site/api/v1/client/subscribe?token=7bc7388abe016ed16833f8100a9c44bf
+https://ss.81dlg.com/dy/ss?token=b472c74cc07e20e60d40f0e741f4dd98
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
+https://subone.xyjc.xyz/api/xyjcxyz?token=6d532bb1a3961d96aa7c55826cbafe36
