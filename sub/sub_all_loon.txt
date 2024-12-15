@@ -1,4 +1,7 @@
-https://mc.jiedianxielou.workers.dev
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://vyyy.vyunyunnode.top/api/v1/client/subscribe?token=56183160241c6711628c210b6bf4c508
+https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=5d8d7e20b02946587c9db997b91e3fcc
+https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
