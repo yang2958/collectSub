@@ -1,9 +1,5 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
-http://gbtgurl01.org/api/v1/client/subscribe?token=382aeefac92556ece9266aaf9563b308
-https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
-https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://pqjc.site/api/v1/client/subscribe?token=5c1ca5c4caf94d93933db460adf7f07e
-https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=fa5f8fbbf4612457bce2411d06c8c3d5
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
+https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
+https://pqjc.site/api/v1/client/subscribe?token=f79982973562058dc448831a9e495c25
+https://subs.pithecia.com/api/v1/client/subscribe?token=eb235ba978096ae510540e8845ea2c70
+https://www.kuaidog008.top/api/v1/client/subscribe?token=69ed690baf0cf73b4d2a2017c680fca6
