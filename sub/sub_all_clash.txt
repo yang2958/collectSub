@@ -1,7 +1,12 @@
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
 https://cdn1715497317.ppgnginx.com/api/v1/client/subscribe?token=51a3824f85c5d02a32a3a8deb8931365
-https://jilu.uuvpn.xyz/api/v1/client/subscribe?token=c9fd509e51f08bec3182c29056e28772
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://cpdd.one/sub?token=004c8f491fd34b029cd81badf89f8ced
+https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
+https://mc.jiedianxielou.workers.dev
+https://pqjc.site/api/v1/client/subscribe?token=5edc13859a73d260b04a00cf17914a5e&amp;flag=meta
+https://sub.xiaomf.store/link/LLWmOb0Dz6klyVIi?clash=1
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
-https://xn--fhqu06a8m1asto.icu/linju?token=8c19a12038acd6d7ca190e5739f5446a
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=f97e106e0ffd3eddb203e1fd21acfb7b
+https://www.kuaidog008.top/api/v1/client/subscribe?token=fc4f70aa06a9987cfd2b1a4c52117c24
