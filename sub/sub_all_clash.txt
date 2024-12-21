@@ -1,11 +1,7 @@
 http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
+http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE5SK3M5Nk84Tkp2T2M0YW1jVk02d0FxbmQ2Q3l5UGF3QkJhUW1CUHNTSzNhOXJmMDFHcXJ4NE51VGpsaVlwMGgzbUgvT1pLQkRMTUhRS2xwYnFEVUNtMzN5OTBabEhwRVE9PQ
+https://api.xinyo.vip/api/v1/client/subscribe?token=32766ad77e22239683fc3b9e2a06f4bd
 https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=a963a261a3b8c29027a09c36def5b862
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://cdn1715497317.ppgnginx.com/api/v1/client/subscribe?token=51a3824f85c5d02a32a3a8deb8931365
-https://pqjc.site/api/v1/client/subscribe?token=77e092e239d1d097a0e7d2cf28b215fc&amp;flag=meta
-https://www.kuaidog008.top/api/v1/client/subscribe?token=fc4f70aa06a9987cfd2b1a4c52117c24
-https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
-https://xn--mesz9ptugxg.com/api/v1/client/subscribe?token=39346d0c963582a5c2084c341b774a17
+https://pqjc.site/api/v1/client/subscribe?token=ca09d4f1cc35e3fcaef9f4856a0f7ad9
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=f97e106e0ffd3eddb203e1fd21acfb7b
