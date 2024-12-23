@@ -1,3 +1,4 @@
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://ch.louwangzhiyu.xyz/api/v1/client/subscribe?token=04db78dcb0f6b116580df1baea147a54
+https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
