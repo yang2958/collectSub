@@ -1,9 +1,9 @@
 http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://cdn1715497317.ppgnginx.com/api/v1/client/subscribe?token=51a3824f85c5d02a32a3a8deb8931365
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE04ODdacUFzOTlrTU04RGtOWk0vRUZzMGNUYWdTN0NoZ1pCVkR4ZnRpbW1iWmZDM2wvd3RVeFY3ekM4aHRwNmhIS0UrYkFhQlRHY1NBZWdxYnlEVkNlK2lpRW5aZ1M3RWN0Y1VvVT0
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://pqjc.site/api/v1/client/subscribe?token=c52d1f5d27546cca5fd92b2e4f53020b
-https://pqjc.site/api/v1/client/subscribe?token=d66c5de5dddd6e0b44ff6c8382a411b6&amp;flag=meta
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://cloudfisher.net/jsk34?token=357b5b436ac0b92e9649b964bf0e7a68
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://mc.jiedianxielou.workers.dev
+https://pqjc.site/api/v1/client/subscribe?token=ca09d4f1cc35e3fcaef9f4856a0f7ad9
+https://pqjc.site/api/v1/client/subscribe?token=d72420f011a90e10350608a7fc8f3645&amp;flag=meta
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
