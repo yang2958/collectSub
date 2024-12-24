@@ -1,5 +1,6 @@
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
-https://api.touhou.center/sub/a817a5effa9865af/clash
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
+https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
