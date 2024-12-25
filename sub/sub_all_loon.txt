@@ -1,4 +1,4 @@
-https://mc.jiedianxielou.workers.dev/
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
+https://mc.jiedianxielou.workers.dev
+https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
+https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
