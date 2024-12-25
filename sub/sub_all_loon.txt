@@ -1,3 +1,4 @@
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://mc.jiedianxielou.workers.dev
+https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
