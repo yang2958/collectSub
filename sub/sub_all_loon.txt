@@ -1,4 +1,3 @@
-https://mc.jiedianxielou.workers.dev
 https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
