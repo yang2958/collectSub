@@ -1,6 +1,4 @@
 https://mc.jiedianxielou.workers.dev
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://cat.ikkt.cn/api/v1/client/subscribe?token=83d0fede9cd582b53b169c6feeea793d
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
