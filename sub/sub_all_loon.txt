@@ -1,7 +1,4 @@
-http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=cbb31425affb0704414d28c596a57d0e
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://www.antlink.cc/api/v1/client/subscribe?token=cef0a82eedec7c8db2bb2d59f0e69109
+http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
+https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
