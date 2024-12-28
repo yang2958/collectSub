@@ -37,9 +37,9 @@ https://xf88j.no-mad-world.club/link/HtJ7xKqcaniqXvgV?clash=3
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://get.biu001.xyz/api/v1/client/subscribe?token=7d8fe643d3aba64708b8a4ec58b68260
 https://get.biu001.xyz/api/v1/client/subscribe?token=d1f7db77225e7e963c81fd2911efd398&amp;flag=meta
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
 https://dy.kuailejc.xyz/api/v1/client/subscribe?token=c1e9524933ff7c6f071066921c94b9f4
 https://dy.kuailejc.xyz/api/v1/client/subscribe?token=c1e9524933ff7c6f071066921c94b9f4&amp;flag=sing#%E5%BF%AB%E4%B9%90%E6%9C%BA%E5%9C%BA
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
@@ -80,11 +80,11 @@ https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
 https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
 https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
 https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
 https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 
 
