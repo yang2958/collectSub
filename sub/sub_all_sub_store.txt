@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://www.crosswall.org/api/v1/client/subscribe?token=15c93fac71b86d1a67dcdb417964dafb
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=cbb31425affb0704414d28c596a57d0e
@@ -25,18 +24,19 @@ https://bujidao.cc/sub?key=qAmvoST9npYLEgOzq0RMqWhbqBYZoB9D
 https://bujidao.cc/sub?key=KK7BTWJTpqY4bdO6R3qVu0qLWaAn9WRk
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=f97e106e0ffd3eddb203e1fd21acfb7b
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://gates.djjc.cfd/api/v1/client/subscribe?token=07ed6955beffc4d3e92093411b8069b4
 https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
 https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://kcsub.vip/link/U3q6DvpKNpIHVeOi?clash=1
+http://chatgpt.juicevpn.top/
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
-http://chatgpt.juicevpn.top/
-https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
 https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://sub.sanfen021.xyz/api/v1/client/subscribe?token=10f8989889abc9f0fc6fc550acfa6f91&amp;flag=clash
 https://get.biu001.xyz/api/v1/client/subscribe?token=7d8fe643d3aba64708b8a4ec58b68260
@@ -54,21 +54,21 @@ https://subs.pithecia.com/api/v1/client/subscribe?token=573089f9130927f99a86801f
 https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
 https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=all
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=clash
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=sock
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=SOCK
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=Ss
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=SS
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=sS
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=vless
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=vmess
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=SOCK
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=sock
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=ss
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=v2ray
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=Ss
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=all
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=Sock
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=clashmeta
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=SS
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=clash
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=SOck
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=sS
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=v2ray
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=clashmeta
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=ss
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3&amp;types=Sock
 http://best.momoxiaodian.cc/mo99/serve/axiba/gov?token=42763f88aad0cf9243ed69b5c16364f4
 https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
 https://s1.byte33.com/api/v1/client/subscribe?token=cd02e7650835fe1a623fcedb85621924
@@ -93,7 +93,6 @@ https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
 https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://bpjc.lol/api/bpjclol?token=a2036c6e0380a346b698f6eeb5bc9998
 https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 
